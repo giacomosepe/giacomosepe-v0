@@ -119,7 +119,7 @@ export default function Home() {
                 name: "What is Giacomo Sepe's background?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe holds an MBA from Columbia Business School and has worked as a Product Specialist at Merrill Lynch London, Project Manager at Hines (Milano Porta Nuova), Operations Manager at UBS, Head of Commerce at Camilia, Client Acquisition & Account Management at Fineurop Soditic, and Sales & Sales Ops at Flamme.",
+                  text: "Giacomo Sepe holds an MBA from Columbia University and has worked as a Sales Specialist at Merrill Lynch (EMEA) and Arkadia, Project Manager at Hines (Milano Porta Nuova) and UBS Italia, Operating Partner at EQValue Private Equity, Operations Manager at UBS Italia, Simmetrico, and CEO at Cotolicious.",
                 },
               },
               {
@@ -223,9 +223,9 @@ export default function Home() {
 
             <div className="pt-4">
               <p className="text-base md:text-sm text-[#4A5568] leading-relaxed italic">
-                Background: MBA Columbia Business School, Product Specialist at Merrill Lynch London, Project Manager at
-                Hines (Milano Porta Nuova), Operations Manager at UBS, Head of Commerce at Camilia, Client Acquisition &
-                Account Management at Fineurop Soditic, Sales & Sales Ops at Flamme.
+                Background: MBA Columbia University, Sales at Merrill Lynch (EMEA) and Arkadia, Project Manager at Hines
+                (Milano Porta Nuova) and UBS Italia, Operating partner at EQValue Private Equity, Operations manager at
+                UBS Italia, Simmetrico, and CEO at Cotolicious
               </p>
             </div>
 
