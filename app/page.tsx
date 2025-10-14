@@ -14,7 +14,7 @@ export default function Home() {
             name: "Giacomo Sepe",
             jobTitle: "Operations Specialist",
             description:
-              "Operations specialist helping shareholders increase company value through software systems, positioning, and messaging for capital raising, acquisitions, and exits",
+              "Operations specialist helping shareholders and entrepreneurs increase company value through software systems, positioning, and messaging for capital raising, partnerships, and international expansion",
             url: "https://giacomosepe.com",
             sameAs: [
               "https://linkedin.com/in/giacomosepe",
@@ -36,12 +36,13 @@ export default function Home() {
               "Software Implementation",
               "Business Positioning",
               "Investor Readiness",
+              "International Expansion",
             ],
             hasOccupation: {
               "@type": "Occupation",
               name: "Operations Specialist",
               description:
-                "Specializes in preparing companies for capital raises, acquisitions, and exits by implementing operational systems, refining positioning, and crafting investor messaging",
+                "Specializes in preparing companies for capital raises, acquisitions, and exits by implementing operational systems, refining positioning, and crafting investor messaging. Also supports international expansion and partnerships.",
               skills: [
                 "Operations Management",
                 "Capital Raising Strategy",
@@ -51,6 +52,8 @@ export default function Home() {
                 "M&A Preparation",
                 "Exit Strategy",
                 "Business Valuation Enhancement",
+                "International Business Development",
+                "Partnership Strategy",
               ],
             },
             workExample: [
@@ -65,6 +68,23 @@ export default function Home() {
                 name: "Simmetrico Transformation",
                 description:
                   "Organizational redesign and product launch resulting in improved bank negotiations and product rights sale",
+              },
+              {
+                "@type": "CreativeWork",
+                name: "Camilia Acquisition",
+                description:
+                  "Head of Commerce role leading to successful acquisition by Swarovski through strategic client acquisition and account management",
+              },
+              {
+                "@type": "CreativeWork",
+                name: "Fineurop Soditic Client Management",
+                description:
+                  "Client acquisition & account management role contributing to business growth and international expansion",
+              },
+              {
+                "@type": "CreativeWork",
+                name: "Flamme Sales & Sales Ops",
+                description: "Sales & Sales Ops role enhancing revenue streams and operational efficiency",
               },
             ],
           }),
@@ -83,7 +103,7 @@ export default function Home() {
                 name: "What does Giacomo Sepe specialize in?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe is an operations specialist who helps shareholders increase company value through software systems implementation, business positioning, and investor messaging. He specializes in preparing companies for capital raises, acquisitions, and exits.",
+                  text: "Giacomo Sepe is an operations specialist who helps shareholders and entrepreneurs increase company value through software systems implementation, business positioning, and investor messaging. He specializes in preparing companies for capital raises, acquisitions, and exits, as well as supporting international expansion and partnerships.",
                 },
               },
               {
@@ -99,7 +119,7 @@ export default function Home() {
                 name: "What is Giacomo Sepe's background?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe holds an MBA from Columbia Business School and has worked as a Product Specialist at Merrill Lynch London, Project Manager at Hines (Milano Porta Nuova), and Operations Manager at UBS. He has successfully led companies through exits including Cotolicious (sold to competitor) and Simmetrico (product rights sold to Chinese distributor).",
+                  text: "Giacomo Sepe holds an MBA from Columbia Business School and has worked as a Product Specialist at Merrill Lynch London, Project Manager at Hines (Milano Porta Nuova), Operations Manager at UBS, Head of Commerce at Camilia, Client Acquisition & Account Management at Fineurop Soditic, and Sales & Sales Ops at Flamme.",
                 },
               },
               {
@@ -107,7 +127,15 @@ export default function Home() {
                 name: "What services does Giacomo Sepe offer for company exits?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe offers three core services for company exits: 1) Implementing software and operational systems to reduce key person dependency, 2) Refining business positioning to strengthen market competitiveness, and 3) Crafting investor messaging to address potential objections during capital raises or share sales.",
+                  text: "Giacomo Sepe offers three core services for company exits: 1) Implementing software and operational systems to reduce key person dependency, 2) Refining business positioning and sales documents to strengthen market competitiveness, and 3) Crafting investor messaging to address potential objections during capital raises or share sales.",
+                },
+              },
+              {
+                "@type": "Question",
+                name: "How does Giacomo Sepe support international expansion?",
+                acceptedAnswer: {
+                  "@type": "Answer",
+                  text: "Giacomo Sepe supports international expansion by assisting companies in strategic client acquisition, account management, and operational efficiency, ensuring they are well-prepared for global markets and partnerships.",
                 },
               },
             ],
@@ -123,17 +151,24 @@ export default function Home() {
             "@type": "ProfessionalService",
             name: "Giacomo Sepe Operations Consulting",
             description:
-              "Operations consulting services for shareholders looking to increase company value ahead of capital raises, acquisitions, and exits",
+              "Operations consulting services for shareholders and entrepreneurs looking to increase company value ahead of capital raises, acquisitions, exits, and international expansion",
             provider: {
               "@type": "Person",
               name: "Giacomo Sepe",
             },
             areaServed: "Global",
-            serviceType: ["Operations Consulting", "Capital Raising Advisory", "Exit Strategy", "M&A Preparation"],
+            serviceType: [
+              "Operations Consulting",
+              "Capital Raising Advisory",
+              "Exit Strategy",
+              "M&A Preparation",
+              "International Expansion",
+              "Partnership Strategy",
+            ],
             offers: {
               "@type": "Offer",
               description:
-                "Comprehensive operations consulting to prepare companies for capital raises, acquisitions, and exits through software implementation, positioning refinement, and investor messaging",
+                "Comprehensive operations consulting to prepare companies for capital raises, acquisitions, exits, international expansion, and partnerships through software implementation, positioning refinement, and investor messaging",
             },
           }),
         }}
@@ -143,13 +178,16 @@ export default function Home() {
       <nav className="border-b border-border">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <Link href="/" className="text-xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors">
+            <Link
+              href="/"
+              className="text-xl md:text-2xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors"
+            >
               Giacomo Sepe
             </Link>
             <div className="flex items-center gap-6">
               <Link
                 href="/contact"
-                className="text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
+                className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
               >
                 Chat
               </Link>
@@ -157,7 +195,7 @@ export default function Home() {
                 href="https://giacomosepe.substack.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
+                className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
               >
                 Substack
               </a>
@@ -180,13 +218,14 @@ export default function Home() {
             </Avatar>
 
             <div>
-              <p className="text-lg font-medium text-foreground">Operations specialist</p>
+              <p className="text-xl md:text-2xl font-medium text-foreground">Operations specialist</p>
             </div>
 
             <div className="pt-4">
-              <p className="text-sm text-[#4A5568] leading-relaxed italic">
+              <p className="text-base md:text-sm text-[#4A5568] leading-relaxed italic">
                 Background: MBA Columbia Business School, Product Specialist at Merrill Lynch London, Project Manager at
-                Hines (Milano Porta Nuova), Operations Manager at UBS.
+                Hines (Milano Porta Nuova), Operations Manager at UBS, Head of Commerce at Camilia, Client Acquisition &
+                Account Management at Fineurop Soditic, Sales & Sales Ops at Flamme.
               </p>
             </div>
 
@@ -214,16 +253,22 @@ export default function Home() {
 
           {/* Right Column - Bio (2/3) */}
           <div className="md:col-span-2 space-y-6">
-            <div className="space-y-4 text-foreground leading-relaxed">
+            <div className="space-y-4 text-lg md:text-base text-foreground leading-relaxed">
               <p>
-                I partner with shareholders to increase company value ahead of capital raises, acquisitions, and exits
-                through operations.
+                I partner with shareholders and entrepreneurs to support capital raising, partnerships, and
+                international expansion.
               </p>
 
               <p>
                 My approach combines three elements: implementing software and systems to reduce dependency from CEO or
-                key team members, refining positioning to strengthen competitiveness, and crafting messaging to
-                anticipate potential investors and partners objections when raising capital or selling shares.
+                key team members, refining positioning and sales documents to strengthen competitiveness, and crafting
+                messaging to anticipate potential investors and partners objections when raising capital or selling
+                shares.
+              </p>
+
+              <p>
+                On a day to day, I run special projects that bring structure and messaging clarity to company
+                leadership.
               </p>
 
               <p>
@@ -233,8 +278,8 @@ export default function Home() {
             </div>
 
             <div className="pt-6 border-t border-border">
-              <h2 className="text-lg font-semibold mb-3">Completed Work</h2>
-              <div className="space-y-3 text-sm text-foreground leading-relaxed">
+              <h2 className="text-xl md:text-lg font-semibold mb-3">Completed Work</h2>
+              <div className="space-y-3 text-base md:text-sm text-foreground leading-relaxed">
                 <p>
                   <strong>Cotolicious</strong> (sold to competitor) — COO & CEO. Streamlined operations, repositioned
                   offering, implemented ERP and data systems. Result: successful cash exit after 2 years.
@@ -256,7 +301,7 @@ export default function Home() {
       <footer className="border-t border-border mt-auto">
         <div className="container mx-auto px-6 py-8">
           <div className="flex items-center justify-center">
-            <span className="text-muted-foreground text-sm">Giacomo Sepe {new Date().getFullYear()}</span>
+            <span className="text-muted-foreground text-base md:text-sm">Giacomo Sepe {new Date().getFullYear()}</span>
           </div>
         </div>
       </footer>

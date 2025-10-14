@@ -54,18 +54,21 @@ export default function ContactPage() {
       <nav className="border-b border-border">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <Link href="/" className="text-xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors">
+            <Link
+              href="/"
+              className="text-xl md:text-xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors"
+            >
               Giacomo Sepe
             </Link>
             <div className="flex items-center gap-6">
-              <Link href="/contact" className="text-sm text-primary">
+              <Link href="/contact" className="text-base md:text-sm text-primary">
                 Chat
               </Link>
               <a
                 href="https://giacomosepe.substack.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
+                className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
               >
                 Substack
               </a>
@@ -77,14 +80,14 @@ export default function ContactPage() {
       {/* Main Content */}
       <main className="flex-1 container mx-auto px-6 py-16">
         <div className="max-w-2xl mx-auto">
-          <h1 className="text-4xl font-bold mb-4 text-balance">Easiest way to reach me</h1>
-          <p className="text-muted-foreground mb-8 leading-relaxed">
+          <h1 className="text-3xl md:text-4xl font-bold mb-4 text-balance">Easiest way to reach me</h1>
+          <p className="text-lg md:text-base text-muted-foreground mb-8 leading-relaxed">
             Happy to talk about leadership, software and the transformations that make companies more valuable.
           </p>
 
           <form onSubmit={handleSubmit} className="space-y-6">
             <div className="space-y-2">
-              <Label htmlFor="name" className="text-[#6d0e2b] font-medium">
+              <Label htmlFor="name" className="text-[#6d0e2b] font-medium text-base md:text-sm">
                 Name
               </Label>
               <Input
@@ -99,7 +102,7 @@ export default function ContactPage() {
             </div>
 
             <div className="space-y-2">
-              <Label htmlFor="email" className="text-[#6d0e2b] font-medium">
+              <Label htmlFor="email" className="text-[#6d0e2b] font-medium text-base md:text-sm">
                 Email
               </Label>
               <Input
@@ -114,7 +117,7 @@ export default function ContactPage() {
             </div>
 
             <div className="space-y-2">
-              <Label htmlFor="message" className="text-[#6d0e2b] font-medium">
+              <Label htmlFor="message" className="text-[#6d0e2b] font-medium text-base md:text-sm">
                 Message
               </Label>
               <Textarea
@@ -129,13 +132,13 @@ export default function ContactPage() {
             </div>
 
             {submitStatus === "success" && (
-              <div className="p-4 bg-green-50 border border-green-200 rounded-md text-green-800">
+              <div className="p-4 bg-green-50 border border-green-200 rounded-md text-green-800 text-base md:text-sm">
                 Your message successfully landed in my inbox. I will be in touch within a few hours.
               </div>
             )}
 
             {submitStatus === "error" && (
-              <div className="p-4 bg-red-50 border border-red-200 rounded-md text-red-800">
+              <div className="p-4 bg-red-50 border border-red-200 rounded-md text-red-800 text-base md:text-sm">
                 Something went wrong. Please try again or email me directly.
               </div>
             )}
@@ -143,7 +146,7 @@ export default function ContactPage() {
             <Button
               type="submit"
               disabled={isSubmitting}
-              className="bg-[#141e55] hover:bg-[#1a2668] text-white w-auto px-8 disabled:opacity-50"
+              className="bg-[#141e55] hover:bg-[#1a2668] text-white w-auto px-8 disabled:opacity-50 text-base md:text-sm"
             >
               {isSubmitting ? "Sending..." : "Send your note to Giacomo"}
             </Button>
