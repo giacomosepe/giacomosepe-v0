@@ -1,8 +1,14 @@
+"use client"
+
 import Link from "next/link"
 import { Github, Linkedin } from "lucide-react"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
+import { useLanguage } from "@/lib/language-context"
+import { LanguageToggle } from "@/components/language-toggle"
 
 export default function Home() {
+  const { t } = useLanguage()
+
   return (
     <div className="min-h-screen flex flex-col">
       <script
@@ -177,7 +183,7 @@ export default function Home() {
       {/* Navbar */}
       <nav className="border-b border-border">
         <div className="container mx-auto px-6 py-4">
-          <div className="flex items-center justify-between">
+          <div className="flex flex-col md:flex-row items-center md:justify-between gap-3 md:gap-0">
             <Link
               href="/"
               className="text-xl md:text-2xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors"
@@ -189,7 +195,7 @@ export default function Home() {
                 href="/contact"
                 className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
               >
-                Chat
+                {t("chat")}
               </Link>
               <a
                 href="https://giacomosepe.substack.com"
@@ -197,8 +203,9 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
               >
-                Substack
+                {t("substack")}
               </a>
+              <LanguageToggle />
             </div>
           </div>
         </div>
@@ -218,15 +225,11 @@ export default function Home() {
             </Avatar>
 
             <div>
-              <p className="text-xl md:text-2xl font-medium text-foreground">Operations specialist</p>
+              <p className="text-xl md:text-2xl font-medium text-foreground">{t("title")}</p>
             </div>
 
             <div className="pt-4 hidden md:block">
-              <p className="text-base md:text-sm text-[#4A5568] leading-relaxed italic">
-                Background: MBA Columbia University, Sales at Merrill Lynch (EMEA) and Arkadia, Project Manager at Hines
-                (Milano Porta Nuova) and UBS Italia, Operating partner at EQValue Private Equity, Operations manager at
-                UBS Italia, Simmetrico, and CEO at Cotolicious
-              </p>
+              <p className="text-base md:text-sm text-[#4A5568] leading-relaxed italic">{t("background")}</p>
             </div>
 
             <div className="hidden md:flex items-center gap-3 pt-2">
@@ -254,35 +257,14 @@ export default function Home() {
           {/* Right Column - Bio (2/3) */}
           <div className="md:col-span-2 space-y-6">
             <div className="space-y-4 text-lg md:text-base text-foreground leading-relaxed">
-              <p>
-                I partner with shareholders and entrepreneurs to support capital raising, partnerships, and
-                international expansion.
-              </p>
-
-              <p>
-                My approach combines three elements: implementing software and systems to reduce dependency from CEO or
-                key team members, refining positioning and sales documents to strengthen competitiveness, and crafting
-                messaging to anticipate potential investors and partners objections when raising capital or selling
-                shares.
-              </p>
-
-              <p>
-                On a day to day, I run special projects that bring structure and messaging clarity to company
-                leadership.
-              </p>
-
-              <p>
-                The result: businesses become investor-grade, scalable, and predictable—commanding higher valuations and
-                smoother transactions.
-              </p>
+              <p>{t("intro")}</p>
+              <p>{t("approach")}</p>
+              <p>{t("dayToDay")}</p>
+              <p>{t("result")}</p>
             </div>
 
             <div className="pt-4 block md:hidden">
-              <p className="text-base md:text-sm text-[#4A5568] leading-relaxed italic">
-                Background: MBA Columbia University, Sales at Merrill Lynch (EMEA) and Arkadia, Project Manager at Hines
-                (Milano Porta Nuova) and UBS Italia, Operating partner at EQValue Private Equity, Operations manager at
-                UBS Italia, Simmetrico, and CEO at Cotolicious
-              </p>
+              <p className="text-base md:text-sm text-[#4A5568] leading-relaxed italic">{t("background")}</p>
             </div>
 
             <div className="flex md:hidden items-center gap-3 pt-2 pb-4">
@@ -307,19 +289,17 @@ export default function Home() {
             </div>
 
             <div className="pt-6 border-t border-border">
-              <h2 className="text-xl md:text-lg font-semibold mb-3">Completed Work</h2>
+              <h2 className="text-xl md:text-lg font-semibold mb-3">{t("completedWork")}</h2>
               <div className="space-y-3 text-base md:text-sm text-foreground leading-relaxed">
                 <p>
-                  <strong>Cotolicious</strong> (sold to competitor) — COO & CEO. Streamlined operations, repositioned
-                  offering, implemented ERP and data systems. Result: successful cash exit after 2 years.
+                  <strong>{t("cotolicious")}</strong> {t("cotoliciousDesc")}
                 </p>
                 <p>
-                  <strong>Simmetrico</strong> — Redesigned org chart, built cash flow dashboard, launched productized
-                  service. Result: improved bank negotiations, product rights sold to Chinese distributor.
+                  <strong>{t("simmetrico")}</strong> {t("simmetricoDesc")}
                 </p>
                 <p>
-                  <strong>Camilia</strong> (acquired by Swarovski) — Head of Commerce. <strong>Fineurop Soditic</strong>{" "}
-                  — Client acquisition & account management. <strong>Flamme</strong> — Sales & Sales Ops.
+                  <strong>{t("otherWork")}</strong> {t("otherWorkDesc")} <strong>{t("fineurop")}</strong>{" "}
+                  {t("fineuropDesc")} <strong>{t("flamme")}</strong> {t("flammeDesc")}
                 </p>
               </div>
             </div>

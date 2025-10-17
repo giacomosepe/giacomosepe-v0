@@ -8,8 +8,12 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Label } from "@/components/ui/label"
+import { useLanguage } from "@/lib/language-context"
+import { LanguageToggle } from "@/components/language-toggle"
 
 export default function ContactPage() {
+  const { t } = useLanguage()
+
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -53,7 +57,7 @@ export default function ContactPage() {
       {/* Navbar */}
       <nav className="border-b border-border">
         <div className="container mx-auto px-6 py-4">
-          <div className="flex items-center justify-between">
+          <div className="flex flex-col md:flex-row items-center md:justify-between gap-3 md:gap-0">
             <Link
               href="/"
               className="text-xl md:text-xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors"
@@ -62,7 +66,7 @@ export default function ContactPage() {
             </Link>
             <div className="flex items-center gap-6">
               <Link href="/contact" className="text-base md:text-sm text-primary">
-                Chat
+                {t("chat")}
               </Link>
               <a
                 href="https://giacomosepe.substack.com"
@@ -70,8 +74,9 @@ export default function ContactPage() {
                 rel="noopener noreferrer"
                 className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
               >
-                Substack
+                {t("substack")}
               </a>
+              <LanguageToggle />
             </div>
           </div>
         </div>
@@ -80,21 +85,19 @@ export default function ContactPage() {
       {/* Main Content */}
       <main className="flex-1 container mx-auto px-6 py-16">
         <div className="max-w-2xl mx-auto">
-          <h1 className="text-3xl md:text-4xl font-bold mb-4 text-balance">Easiest way to reach me</h1>
-          <p className="text-lg md:text-base text-muted-foreground mb-8 leading-relaxed">
-            Happy to talk about leadership, software and the transformations that make companies more valuable.
-          </p>
+          <h1 className="text-3xl md:text-4xl font-bold mb-4 text-balance">{t("contactTitle")}</h1>
+          <p className="text-lg md:text-base text-muted-foreground mb-8 leading-relaxed">{t("contactSubtitle")}</p>
 
           <form onSubmit={handleSubmit} className="space-y-6">
             <div className="space-y-2">
               <Label htmlFor="name" className="text-[#6d0e2b] font-medium text-base md:text-sm">
-                Name
+                {t("nameLabel")}
               </Label>
               <Input
                 id="name"
                 name="name"
                 type="text"
-                placeholder="Your name"
+                placeholder={t("namePlaceholder")}
                 value={formData.name}
                 onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                 required
@@ -103,13 +106,13 @@ export default function ContactPage() {
 
             <div className="space-y-2">
               <Label htmlFor="email" className="text-[#6d0e2b] font-medium text-base md:text-sm">
-                Email
+                {t("emailLabel")}
               </Label>
               <Input
                 id="email"
                 name="email"
                 type="email"
-                placeholder="your.email@example.com"
+                placeholder={t("emailPlaceholder")}
                 value={formData.email}
                 onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                 required
@@ -118,12 +121,12 @@ export default function ContactPage() {
 
             <div className="space-y-2">
               <Label htmlFor="message" className="text-[#6d0e2b] font-medium text-base md:text-sm">
-                Message
+                {t("messageLabel")}
               </Label>
               <Textarea
                 id="message"
                 name="message"
-                placeholder="Your message..."
+                placeholder={t("messagePlaceholder")}
                 rows={6}
                 value={formData.message}
                 onChange={(e) => setFormData({ ...formData, message: e.target.value })}
@@ -133,13 +136,13 @@ export default function ContactPage() {
 
             {submitStatus === "success" && (
               <div className="p-4 bg-green-50 border border-green-200 rounded-md text-green-800 text-base md:text-sm">
-                Your message successfully landed in my inbox. I will be in touch within a few hours.
+                {t("successMessage")}
               </div>
             )}
 
             {submitStatus === "error" && (
               <div className="p-4 bg-red-50 border border-red-200 rounded-md text-red-800 text-base md:text-sm">
-                Something went wrong. Please try again or email me directly.
+                {t("errorMessage")}
               </div>
             )}
 
@@ -148,7 +151,7 @@ export default function ContactPage() {
               disabled={isSubmitting}
               className="bg-[#141e55] hover:bg-[#1a2668] text-white w-auto px-8 disabled:opacity-50 text-base md:text-sm"
             >
-              {isSubmitting ? "Sending..." : "Send your note to Giacomo"}
+              {isSubmitting ? t("submitting") : t("submitButton")}
             </Button>
           </form>
         </div>
