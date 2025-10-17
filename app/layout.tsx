@@ -27,6 +27,11 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Giacomo Sepe" }],
   creator: "Giacomo Sepe",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
   openGraph: {
     type: "website",
     locale: "en_US",
