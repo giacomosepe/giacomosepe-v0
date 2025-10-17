@@ -153,6 +153,15 @@ export default function ContactPage() {
           </form>
         </div>
       </main>
+
+      {/* Footer */}
+      <footer className="border-t border-border mt-auto">
+        <div className="container mx-auto px-6 py-8">
+          <div className="flex items-center justify-center">
+            <span className="text-muted-foreground text-base md:text-sm">Giacomo Sepe {new Date().getFullYear()}</span>
+          </div>
+        </div>
+      </footer>
     </div>
   )
 }
