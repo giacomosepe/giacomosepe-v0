@@ -221,7 +221,7 @@ export default function Home() {
               <p className="text-xl md:text-2xl font-medium text-foreground">Operations specialist</p>
             </div>
 
-            <div className="pt-4">
+            <div className="pt-4 hidden md:block">
               <p className="text-base md:text-sm text-[#4A5568] leading-relaxed italic">
                 Background: MBA Columbia University, Sales at Merrill Lynch (EMEA) and Arkadia, Project Manager at Hines
                 (Milano Porta Nuova) and UBS Italia, Operating partner at EQValue Private Equity, Operations manager at
@@ -229,7 +229,7 @@ export default function Home() {
               </p>
             </div>
 
-            <div className="flex items-center gap-3 pt-2">
+            <div className="hidden md:flex items-center gap-3 pt-2">
               <a
                 href="https://github.com/giacomosepe"
                 target="_blank"
@@ -275,6 +275,35 @@ export default function Home() {
                 The result: businesses become investor-grade, scalable, and predictable—commanding higher valuations and
                 smoother transactions.
               </p>
+            </div>
+
+            <div className="pt-4 block md:hidden">
+              <p className="text-base md:text-sm text-[#4A5568] leading-relaxed italic">
+                Background: MBA Columbia University, Sales at Merrill Lynch (EMEA) and Arkadia, Project Manager at Hines
+                (Milano Porta Nuova) and UBS Italia, Operating partner at EQValue Private Equity, Operations manager at
+                UBS Italia, Simmetrico, and CEO at Cotolicious
+              </p>
+            </div>
+
+            <div className="flex md:hidden items-center gap-3 pt-2 pb-4">
+              <a
+                href="https://github.com/giacomosepe"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-primary hover:scale-110 transition-all duration-200"
+                aria-label="GitHub"
+              >
+                <Github className="w-5 h-5" />
+              </a>
+              <a
+                href="https://linkedin.com/in/giacomosepe"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-primary hover:scale-110 transition-all duration-200"
+                aria-label="LinkedIn"
+              >
+                <Linkedin className="w-5 h-5" />
+              </a>
             </div>
 
             <div className="pt-6 border-t border-border">
