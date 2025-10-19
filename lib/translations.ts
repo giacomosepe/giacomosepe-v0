@@ -21,14 +21,19 @@ export const translations = {
 
     // Completed Work
     completedWork: "Completed Work",
-    cotolicious: "Cotolicious",
+    cotolicious: "IPE holding family office —",
     cotoliciousDesc:
-      "(sold to competitor) — COO & CEO. Streamlined operations, repositioned offering, implemented ERP and data systems. Result: successful cash exit after 2 years.",
+      "Portfolio advisor and COO of Cotolicious. Streamlined workflows and software, created data dashboard, launched online service.",
+    picciotto: "Picciotto family office —",
+    picciottoDesc: "Portfolio manager and financial communication for new partnerships and divestments.",
     simmetrico: "Simmetrico",
     simmetricoDesc:
       "— Redesigned org chart, built cash flow dashboard, launched productized service. Result: improved bank negotiations, product rights sold to Chinese distributor.",
-    otherWork: "Camilia",
+    otherWork: "Chamilia",
     otherWorkDesc: "(acquired by Swarovski) — Head of Commerce.",
+    eqvalue: "EQValue Private equity investment club",
+    eqvalueDesc:
+      "— Portfolio manager and investors relations for private equity investments in small and medium businesses.",
     fineurop: "Fineurop Soditic",
     fineuropDesc: "— Client acquisition & account management.",
     flamme: "Flamme",
@@ -71,14 +76,19 @@ export const translations = {
 
     // Completed Work
     completedWork: "Lavori Completati",
-    cotolicious: "Cotolicious",
+    cotolicious: "IPE holding family office —",
     cotoliciousDesc:
-      "(venduta a un concorrente) — COO & CEO. Operazioni semplificate, riposizionamento dell'offerta, implementazione di sistemi ERP e dati. Risultato: uscita di successo in contanti dopo 2 anni.",
+      "Portfolio advisor e COO di Cotolicious. Ottimizzato flussi di lavoro e software, creato dashboard dati, lanciato servizio online.",
+    picciotto: "Picciotto family office —",
+    picciottoDesc: "Portfolio manager e comunicazione finanziaria per nuove partnership e dismissioni.",
     simmetrico: "Simmetrico",
     simmetricoDesc:
       "— Ridisegnato organigramma, costruito dashboard del flusso di cassa, lanciato servizio productizzato. Risultato: migliorate negoziazioni bancarie, diritti del prodotto venduti a distributore cinese.",
-    otherWork: "Camilia",
+    otherWork: "Chamilia",
     otherWorkDesc: "(acquisita da Swarovski) — Head of Commerce.",
+    eqvalue: "EQValue Private equity investment club",
+    eqvalueDesc:
+      "— Portfolio manager e investor relations per investimenti di private equity in piccole e medie imprese.",
     fineurop: "Fineurop Soditic",
     fineuropDesc: "— Acquisizione clienti e gestione account.",
     flamme: "Flamme",

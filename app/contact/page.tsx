@@ -57,25 +57,35 @@ export default function ContactPage() {
       {/* Navbar */}
       <nav className="border-b border-border">
         <div className="container mx-auto px-6 py-4">
-          <div className="flex flex-col md:flex-row items-center md:justify-between gap-3 md:gap-0">
-            <Link
-              href="/"
-              className="text-xl md:text-xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors"
-            >
-              Giacomo Sepe
-            </Link>
-            <div className="flex items-center gap-6">
-              <Link href="/contact" className="text-base md:text-sm text-primary">
-                {t("chat")}
-              </Link>
-              <a
-                href="https://giacomosepe.substack.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
+          <div className="flex flex-col gap-3">
+            {/* First row: Title and menu items */}
+            <div className="flex items-center justify-between">
+              <Link
+                href="/"
+                className="text-xl md:text-xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors"
               >
-                {t("substack")}
-              </a>
+                Giacomo Sepe
+              </Link>
+              <div className="flex items-center gap-4 md:gap-6">
+                <Link href="/contact" className="text-base md:text-sm text-primary">
+                  {t("chat")}
+                </Link>
+                <a
+                  href="https://giacomosepe.substack.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
+                >
+                  {t("substack")}
+                </a>
+                {/* Language toggle visible only on desktop */}
+                <div className="hidden md:block">
+                  <LanguageToggle />
+                </div>
+              </div>
+            </div>
+            {/* Second row: Language toggle centered on mobile only */}
+            <div className="flex md:hidden justify-center">
               <LanguageToggle />
             </div>
           </div>

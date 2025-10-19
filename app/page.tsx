@@ -183,28 +183,38 @@ export default function Home() {
       {/* Navbar */}
       <nav className="border-b border-border">
         <div className="container mx-auto px-6 py-4">
-          <div className="flex flex-col md:flex-row items-center md:justify-between gap-3 md:gap-0">
-            <Link
-              href="/"
-              className="text-xl md:text-2xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors"
-            >
-              Giacomo Sepe
-            </Link>
-            <div className="flex items-center gap-6">
+          <div className="flex flex-col gap-3">
+            {/* First row: Title and menu items */}
+            <div className="flex items-center justify-between">
               <Link
-                href="/contact"
-                className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
+                href="/"
+                className="text-xl md:text-2xl font-semibold text-foreground hover:text-[#6d0e2b] transition-colors"
               >
-                {t("chat")}
+                Giacomo Sepe
               </Link>
-              <a
-                href="https://giacomosepe.substack.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
-              >
-                {t("substack")}
-              </a>
+              <div className="flex items-center gap-4 md:gap-6">
+                <Link
+                  href="/contact"
+                  className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
+                >
+                  {t("chat")}
+                </Link>
+                <a
+                  href="https://giacomosepe.substack.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-base md:text-sm text-muted-foreground hover:text-[#6d0e2b] hover:font-bold transition-all"
+                >
+                  {t("substack")}
+                </a>
+                {/* Language toggle visible only on desktop */}
+                <div className="hidden md:block">
+                  <LanguageToggle />
+                </div>
+              </div>
+            </div>
+            {/* Second row: Language toggle centered on mobile only */}
+            <div className="flex md:hidden justify-center">
               <LanguageToggle />
             </div>
           </div>
@@ -295,11 +305,19 @@ export default function Home() {
                   <strong>{t("cotolicious")}</strong> {t("cotoliciousDesc")}
                 </p>
                 <p>
+                  <strong>{t("picciotto")}</strong> {t("picciottoDesc")}
+                </p>
+                <p>
                   <strong>{t("simmetrico")}</strong> {t("simmetricoDesc")}
                 </p>
                 <p>
-                  <strong>{t("otherWork")}</strong> {t("otherWorkDesc")} <strong>{t("fineurop")}</strong>{" "}
-                  {t("fineuropDesc")} <strong>{t("flamme")}</strong> {t("flammeDesc")}
+                  <strong>{t("otherWork")}</strong> {t("otherWorkDesc")}
+                </p>
+                <p>
+                  <strong>{t("eqvalue")}</strong> {t("eqvalueDesc")}
+                </p>
+                <p>
+                  <strong>{t("fineurop")}</strong> {t("fineuropDesc")}
                 </p>
               </div>
             </div>

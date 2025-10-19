@@ -11,14 +11,34 @@ interface LanguageContextType {
 
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined)
 
-export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [language, setLanguageState] = useState<Language>("en")
+function detectDefaultLanguage(): Language {
+  // Check if we're in a browser environment
+  if (typeof window === "undefined") return "en"
 
-  // Load language from localStorage on mount
+  // Get browser language
+  const browserLang = navigator.language || (navigator.languages && navigator.languages[0])
+
+  // If browser language starts with 'it' (Italian), default to Italian
+  if (browserLang && browserLang.toLowerCase().startsWith("it")) {
+    return "it"
+  }
+
+  // Default to English for all other cases
+  return "en"
+}
+
+export function LanguageProvider({ children }: { children: ReactNode }) {
+  const [language, setLanguageState] = useState<Language>(detectDefaultLanguage())
+
+  // Load language from localStorage on mount (user preference takes precedence)
   useEffect(() => {
     const savedLanguage = localStorage.getItem("language") as Language
     if (savedLanguage && (savedLanguage === "en" || savedLanguage === "it")) {
       setLanguageState(savedLanguage)
+    } else {
+      const detectedLang = detectDefaultLanguage()
+      setLanguageState(detectedLang)
+      localStorage.setItem("language", detectedLang)
     }
   }, [])
 
