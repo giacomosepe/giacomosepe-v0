@@ -66,7 +66,7 @@ export const translations = {
     approach:
       "Il mio approccio combina tre elementi: implementare software e sistemi per ridurre la dipendenza dal CEO o dai membri chiave del team, perfezionare il posizionamento e i documenti di vendita per rafforzare la competitività e creare messaggi per anticipare le obiezioni di potenziali investitori e partner durante la raccolta di capitali o la vendita di azioni.",
     dayToDay:
-      "Quotidianamente, gestisco progetti speciali che portano struttura e chiarezza nella comunicazione alla leadership aziendale.",
+      "Nel quotidiano, gestisco progetti speciali che portano struttura e chiarezza nella comunicazione alla leadership aziendale.",
     result:
       "Il risultato: le aziende diventano pronte per gli investitori, scalabili e prevedibili, ottenendo valutazioni più elevate e transazioni più fluide.",
 
