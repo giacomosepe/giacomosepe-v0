@@ -9,9 +9,9 @@ export const translations = {
 		intro:
 			"I partner with shareholders, founders, and entrepreneurs as they plan for strategic transformations like capital raising, divestments, partnerships, or equity sales. I help them reinforce the vision, execute ideas, and focus on more strategic initiatives.",
 		approach:
-			"My approach combines three elements: implementing software and systems to reduce dependency from CEO or key team members, refining positioning and sales documents to strengthen competitiveness, and crafting messaging to anticipate potential investors and partners objections when raising capital or selling shares.",
+			"In order to be appealing to investors companies generally need to be excellent at three things: 1) Execution: have a clear vision that is communicated externally and executed internally consistently across all activities and products; 2) Scalability: rely on systems and processes rather than CEO relationships and energy; 3) Reliability: have positioning and messaging that tell the business story using the right data.",
 		dayToDay:
-			"On a day to day, I run special projects that bring structure and messaging clarity to company leadership.",
+			"My work is focused on strengthening companies on these 3 elements. On a day to day, I run special projects that bring structure and messaging clarity to company leadership.",
 		result:
 			"After 12-18 months of collaboration, companies have a clear vision, a repeatable and scalable revenue process based on systems and team work rather than mostly on the CEO, and clear consistent pitches for sales, partners / distributors, and investors.",
 
@@ -67,9 +67,9 @@ export const translations = {
 		intro:
 			"Collaboro con azionisti, founders e imprenditori quando pianificano operazioni straordinarie come raccolta di capitali, cessioni, partnership strategiche o cessione. Li aiuto a chiarire la visione, mettere in pratica le idee e concentrarsi sulle iniziative più strategiche.",
 		approach:
-			"Il mio approccio combina tre elementi: implementare software e sistemi per ridurre la dipendenza dal CEO o dai membri chiave del team, perfezionare il posizionamento e i documenti di vendita per rafforzare la competitività e creare messaggi per anticipare le obiezioni di potenziali investitori e partner durante la raccolta di capitali o la vendita di azioni.",
+			"Dopo anni di esperienza ho notato che per avere successo con interlocutori stratgici le aziende devono dotarsi di almeno 3 elementi: 1) Execution: una visione chiara comunicata esternamente e messa in pratica internamente in modo coerente in ogni attivita' e prodotto sviluppato; 2) Scalabilita': fare affidamento su sistemi e organizzazione che sulle relazioni e l'energia del CEO; 3) Affidabilita': avere un posizionamento e un messaging che raccontano la prestazione usando dati corretti e rilevanti.",
 		dayToDay:
-			"Nel quotidiano, gestisco progetti speciali che portano struttura e chiarezza nella comunicazione alla leadership aziendale.",
+			"Il mio lavoro consiste nell'aiutare le aziende a strutturarsi con questi 3 elementi. Nel quotidiano, gestisco progetti speciali che portano struttura e chiarezza nella comunicazione alla leadership aziendale.",
 		result:
 			"Dopo 12-18 mesi di collaborazione le aziende ottengono una visione chiara e calata nelle attivita' quotidiane, un processo di vendita basato su sistemi e lavoro del team invece che sulle relazioni del CEO, e una documentazione chiara e coerente per supportare le vendite, gli accordi con partner strategici e la comunicazione con possibili nuovi investitori.",
 
