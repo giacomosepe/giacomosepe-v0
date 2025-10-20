@@ -7,7 +7,7 @@ export const translations = {
     // Home Page
     title: "Operations specialist",
     intro:
-      "I partner with shareholders and entrepreneurs to support capital raising, partnerships, and international expansion.",
+      "I partner with shareholders, founders, and entrepreneurs as they plan for strategic transformations like capital raising, divestments, partnerships, or equity sales. I help them reinforce the vision, execute ideas, and focus on more strategic initiatives.",
     approach:
       "My approach combines three elements: implementing software and systems to reduce dependency from CEO or key team members, refining positioning and sales documents to strengthen competitiveness, and crafting messaging to anticipate potential investors and partners objections when raising capital or selling shares.",
     dayToDay:
@@ -62,7 +62,7 @@ export const translations = {
     // Home Page
     title: "Specialista Operations e comunicazione finanziaria",
     intro:
-      "Collaboro con azionisti e imprenditori per supportare la raccolta di capitali, partnership ed espansione internazionale.",
+      "Collaboro con azionisti, founders e imprenditori quando pianificano operazioni straordinarie come raccolta di capitali, cessioni, partnership strategiche o cessione. Li aiuto a chiarire la visione, mettere in pratica le idee e concentrarsi sulle iniziative più strategiche.",
     approach:
       "Il mio approccio combina tre elementi: implementare software e sistemi per ridurre la dipendenza dal CEO o dai membri chiave del team, perfezionare il posizionamento e i documenti di vendita per rafforzare la competitività e creare messaggi per anticipare le obiezioni di potenziali investitori e partner durante la raccolta di capitali o la vendita di azioni.",
     dayToDay:
