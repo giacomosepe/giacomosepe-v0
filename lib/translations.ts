@@ -9,9 +9,9 @@ export const translations = {
 		intro:
 			"I partner with shareholders, founders, and entrepreneurs as they plan for strategic transformations like capital raising, partnerships, and international expansion. I help them make it easier for new investors and partners to recognize their value and potential.",
 		approach:
-			"Companies can easily get better valuation if they masster three areas: Execution: have systems in place to streamline delivery, taking trivial activities off the schedule of the CEO; Scalability: rely on technology to help employees deal with more complexity and collect accurate data; Clarity: communicate the vision, the positioning, and the value consistently both internally and extenrally, using reliable data and coehrent messaging, simple statements",
+			"Companies can get better valuation if they master three key areas: Execution: have systems in place to streamline delivery, taking less strategic activities off the schedule of the CEO; Scalability: rely on technology to help employees deal with complexity and collect the relevant data; Clarity: communicate the vision, the positioning, and the value consistently both internally and extenrally, using reliable data and coehrent and simple messaging.",
 		dayToDay:
-			"On a day to day, I run special projects that simplify work and clarify messaging.",
+			"On a day to day, I run special projects that simplify work and clarify communications.",
 		result:
 			"After 6-9 months of collaboration, companies have higher value thanks to clear, long-term, and shared vision, simple, repeatable, and autonomous revenue processes, and effective pitches for sales, partners / distributors, and investors.",
 
