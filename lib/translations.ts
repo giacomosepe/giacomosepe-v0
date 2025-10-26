@@ -65,13 +65,13 @@ export const translations = {
 		// Home Page
 		title: "Specialista Operations e comunicazione strategica",
 		intro:
-			"Collaboro con azionisti e imprenditori quando pianificano una trasformazione strategica come aumenti di capitale, partnership strategiche e internazionali, o investimenti tecnologici. Li aiuto a rendere piu' appetibile l'azienda a potenziali partner e investitori.",
+			"Collaboro con azionisti e imprenditori quando pianificano una trasformazione strategica come aumento di capitale, partnership strategiche e sviluppo internazionale, o investimenti tecnologici. Li aiuto a rendere piu' appetibile l'azienda a potenziali partner e investitori.",
 		approach:
-			"Dopo anni lavorando tra investitori e imprenditori ritengo che, per avere successo con interlocutori strategici, le aziende devono attrettarsi in 3 macro categorie: Execution: mettere in piedi un sistema per semplificare i processo, e sollevare il CEO dai compiti meno strategici; Scalabilita': utilizzare software per aiutare chi lavora a gestire la complessita' e raccoglliere i dati piu' importanti; Chiarezza: comunicare la vision, il posizionamento, e il valore in modo coerente sia internamente che esternamente, usando dati e messaggi in modo semplice.",
+			"Dopo anni lavorando come manager a inserito tra investitori e imprenditori ritengo che per avere maggiore appetibilita' e valore finanziario, le aziende devono attrezzarsi in 3 macro categorie: execution: mettere in piedi un sistema per semplificare i processi (soprattutto di vendita), e sollevare il CEO dai compiti meno strategici; scalabilita': utilizzare software per aiutare chi lavora a gestire la complessita' e raccoglliere i dati piu' importanti, e rendere l'azienda autonoma rispetto al CEO; chiarezza: comunicare la vision, il posizionamento, e il valore in modo coerente sia internamente che esternamente, usando dati e messaggi in modo semplice.",
 		dayToDay:
 			"Nella pratica quotdiana, gestisco progetti speciali che semplificano il lavoro e aumentano la chiarezza della comunicazione strategica.",
 		result:
-			"Dopo 6-9 mesi di collaborazione le aziende sono strutturate per migliore negoziazione con possibili interlocutori grazie a una visione chiara e condivisa, processi di lavoro semplificati e autonomi, e una documentazione chiara a supporto delle negoziazione con partner e investitori.",
+			"Dopo 6-9 mesi di collaborazione le aziende sono meglio strutturate per una negoziazione con possibili interlocutori grazie a una visione chiara e condivisa, processi di lavoro semplificati e autonomi, e una documentazione chiara a supporto delle negoziazione con partner e investitori.",
 
 		// Background
 		background:
