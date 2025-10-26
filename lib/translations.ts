@@ -7,13 +7,13 @@ export const translations = {
 		// Home Page
 		title: "Operations specialist",
 		intro:
-			"I partner with shareholders, founders, and entrepreneurs as they plan for strategic transformations like capital raising, divestments, partnerships, or equity sales. I help them reinforce the vision, execute ideas, and focus on more strategic initiatives.",
+			"I partner with shareholders, founders, and entrepreneurs as they plan for strategic transformations like capital raising, partnerships, and international expansion. I help them make it easier for new investors and partners to recognize their value and potential.",
 		approach:
-			"In order to be appealing to investors companies generally need to be excellent at three things: 1) Execution: have a clear vision that is communicated externally and executed internally consistently across all activities and products; 2) Scalability: rely on systems and processes rather than CEO relationships and energy; 3) Reliability: have positioning and messaging that tell the business story using the right data.",
+			"Companies can easily get better valuation if they masster three areas: Execution: have systems in place to streamline delivery, taking trivial activities off the schedule of the CEO; Scalability: rely on technology to help employees deal with more complexity and collect accurate data; Clarity: communicate the vision, the positioning, and the value consistently both internally and extenrally, using reliable data and coehrent messaging, simple statements",
 		dayToDay:
-			"My work is focused on strengthening companies on these 3 elements. On a day to day, I run special projects that bring structure and messaging clarity to company leadership.",
+			"On a day to day, I run special projects that simplify work and clarify messaging.",
 		result:
-			"After 12-18 months of collaboration, companies have a clear vision, a repeatable and scalable revenue process based on systems and team work rather than mostly on the CEO, and clear consistent pitches for sales, partners / distributors, and investors.",
+			"After 6-9 months of collaboration, companies have higher value thanks to clear, long-term, and shared vision, simple, repeatable, and autonomous revenue processes, and effective pitches for sales, partners / distributors, and investors.",
 
 		// Background
 		background:
