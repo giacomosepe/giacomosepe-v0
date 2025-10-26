@@ -65,9 +65,9 @@ export const translations = {
 		// Home Page
 		title: "Specialista Operations e comunicazione strategica",
 		intro:
-			"Collaboro con azionisti e imprenditori quando pianificano una trasformazione strategica come aumento di capitale, partnership strategiche e sviluppo internazionale, o investimenti tecnologici. Li aiuto a rendere piu' appetibile l'azienda a potenziali partner e investitori.",
+			"Collaboro con azionisti e imprenditori quando pianificano una trasformazione strategica come un aumento di capitale, una partnership strategica o per lo sviluppo internazionale, e investimenti tecnologici. Li aiuto a rendere piu' appetibile l'azienda a potenziali partner e investitori.",
 		approach:
-			"Dopo anni lavorando come manager a inserito tra investitori e imprenditori ritengo che per avere maggiore appetibilita' e valore finanziario, le aziende devono attrezzarsi in 3 macro categorie: execution: mettere in piedi un sistema per semplificare i processi (soprattutto di vendita), e sollevare il CEO dai compiti meno strategici; scalabilita': utilizzare software per aiutare chi lavora a gestire la complessita' e raccoglliere i dati piu' importanti, e rendere l'azienda autonoma rispetto al CEO; chiarezza: comunicare la vision, il posizionamento, e il valore in modo coerente sia internamente che esternamente, usando dati e messaggi in modo semplice.",
+			"Dopo piu' di 10 anni lavorando come manager che collega investitori e imprenditori, ritengo che per avere maggiore appetibilita' e valore finanziario, le aziende devono attrezzarsi in 3 macro categorie: execution: mettere in piedi un sistema per semplificare i processi (soprattutto di vendita), e sollevare il CEO dai compiti meno strategici; scalabilita': utilizzare software per aiutare chi lavora a gestire la complessita' e raccoglliere i dati piu' importanti, e rendere l'azienda autonoma rispetto al CEO; chiarezza: comunicare la vision, il posizionamento, e il valore in modo coerente sia internamente che esternamente, usando dati e messaggi in modo semplice.",
 		dayToDay:
 			"Nella pratica quotdiana, gestisco progetti speciali che semplificano il lavoro e aumentano la chiarezza della comunicazione strategica.",
 		result:
