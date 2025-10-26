@@ -7,13 +7,13 @@ export const translations = {
 		// Home Page
 		title: "Operations specialist",
 		intro:
-			"I partner with shareholders, founders, and entrepreneurs as they plan for strategic transformations like capital raising, partnerships, and international expansion. I help them make it easier for new investors and partners to recognize their value and potential.",
+			"I partner with shareholders and entrepreneurs as they plan for strategic transformations like capital raising, partnerships, international expansion, or tech investments. I help them make it easier for new investors and partners to recognize their value and potential.",
 		approach:
 			"Companies can get better valuation if they master three key areas: Execution: have systems in place to streamline delivery, taking less strategic activities off the schedule of the CEO; Scalability: rely on technology to help employees deal with complexity and collect the relevant data; Clarity: communicate the vision, the positioning, and the value consistently both internally and extenrally, using reliable data and coehrent and simple messaging.",
 		dayToDay:
 			"On a day to day, I run special projects that simplify work and clarify communications.",
 		result:
-			"After 6-9 months of collaboration, companies have higher value thanks to clear, long-term, and shared vision, simple, repeatable, and autonomous revenue processes, and effective pitches for sales, partners / distributors, and investors.",
+			"After 6-9 months working together, companies are better positioned to get higher value from investors, thanks to clear, long-term, and shared vision, simple, repeatable, and autonomous revenue processes, and effective pitches for sales, partners / distributors, and investors.",
 
 		// Background
 		background:
@@ -63,15 +63,15 @@ export const translations = {
 		substack: "Substack",
 
 		// Home Page
-		title: "Specialista Operations e comunicazione finanziaria",
+		title: "Specialista Operations e comunicazione strategica",
 		intro:
-			"Collaboro con azionisti, founders e imprenditori quando pianificano operazioni straordinarie come raccolta di capitali, cessioni, partnership strategiche o cessione. Li aiuto a chiarire la visione, mettere in pratica le idee e concentrarsi sulle iniziative più strategiche.",
+			"Collaboro con azionisti e imprenditori quando pianificano una trasformazione strategica come aumenti di capitale, partnership strategiche e internazionali, o investimenti tecnologici. Li aiuto a rendere piu' appetibile l'azienda a potenziali partner e investitori.",
 		approach:
-			"Dopo anni di esperienza ho notato che per avere successo con interlocutori stratgici le aziende devono dotarsi di almeno 3 elementi: 1) Execution: una visione chiara comunicata esternamente e messa in pratica internamente in modo coerente in ogni attivita' e prodotto sviluppato; 2) Scalabilita': fare affidamento su sistemi e organizzazione che sulle relazioni e l'energia del CEO; 3) Affidabilita': avere un posizionamento e un messaging che raccontano la prestazione usando dati corretti e rilevanti.",
+			"Dopo anni lavorando tra investitori e imprenditori ritengo che, per avere successo con interlocutori strategici, le aziende devono attrettarsi in 3 macro categorie: Execution: mettere in piedi un sistema per semplificare i processo, e sollevare il CEO dai compiti meno strategici; Scalabilita': utilizzare software per aiutare chi lavora a gestire la complessita' e raccoglliere i dati piu' importanti; Chiarezza: comunicare la vision, il posizionamento, e il valore in modo coerente sia internamente che esternamente, usando dati e messaggi in modo semplice.",
 		dayToDay:
-			"Il mio lavoro consiste nell'aiutare le aziende a strutturarsi con questi 3 elementi. Nel quotidiano, gestisco progetti speciali che portano struttura e chiarezza nella comunicazione alla leadership aziendale.",
+			"Nella pratica quotdiana, gestisco progetti speciali che semplificano il lavoro e aumentano la chiarezza della comunicazione strategica.",
 		result:
-			"Dopo 12-18 mesi di collaborazione le aziende ottengono una visione chiara e calata nelle attivita' quotidiane, un processo di vendita basato su sistemi e lavoro del team invece che sulle relazioni del CEO, e una documentazione chiara e coerente per supportare le vendite, gli accordi con partner strategici e la comunicazione con possibili nuovi investitori.",
+			"Dopo 6-9 mesi di collaborazione le aziende sono strutturate per migliore negoziazione con possibili interlocutori grazie a una visione chiara e condivisa, processi di lavoro semplificati e autonomi, e una documentazione chiara a supporto delle negoziazione con partner e investitori.",
 
 		// Background
 		background:
