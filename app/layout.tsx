@@ -63,6 +63,13 @@ export default function RootLayout({
     <html lang="en" className={`${geistMono.variable} antialiased`}>
       <head>
         <Script src="//cdn.cookie-script.com/s/274754e7ccf48301a6d89b1cbfbc08b5.js" strategy="beforeInteractive" />
+         <Script
+          data-website-id="69006f817e4eccbe61192a88"
+          data-domain="giiacomosepe.com"
+          src="https://datafa.st/js/script.js"
+          strategy="afterInteractive"
+        />
+      
       </head>
       <body className="font-sans">
         <LanguageProvider>
