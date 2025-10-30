@@ -71,7 +71,7 @@ export default function RootLayout({
 		<html lang='en' className={`${geistMono.variable} antialiased`}>
 			<head>
 				<Script
-					src='//cdn.cookie-script.com/s/274754e7ccf48301a6d89b1cbfbc08b5.js'
+					src='https://cdn.cookie-script.com/s/274754e7ccf48301a6d89b1cbfbc08b5.js'
 					strategy='beforeInteractive'
 				/>
 				{isProd && GTM_ID && (
