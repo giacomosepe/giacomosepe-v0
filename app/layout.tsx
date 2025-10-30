@@ -78,7 +78,7 @@ export default function RootLayout({
 					<Script
 						id='gtm-base'
 						type="text/plain"                 // <-- tell CookieScript not to run it yet
-    					data-cookiecategory="statistics"   // <-- category to allow after consent
+    					data-cookiecategory="targeting"   // <-- category to allow after consent
 						strategy='beforeInteractive'
 						dangerouslySetInnerHTML={{
 							__html: `
