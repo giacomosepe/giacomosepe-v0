@@ -7,6 +7,8 @@ import Script from "next/script";
 import "./globals.css";
 import { LanguageProvider } from "@/lib/language-context";
 import GtmPageView from "./gtmPageView";
+import Nav from "@/components/Nav";
+import Foot from "@/components/Foot";
 
 const geistMono = Geist_Mono({
 	subsets: ["latin"],
@@ -108,7 +110,13 @@ export default function RootLayout({
 					/>
 				)}
 				<LanguageProvider>
-					<Suspense fallback={<div>Loading...</div>}>{children}</Suspense>
+					<div className='container mx-auto px-6'>
+						<Nav />
+						<main className='flex-1 py-16'>
+							<Suspense fallback={<div>Loading...</div>}>{children}</Suspense>
+						</main>
+						<Foot />
+					</div>
 				</LanguageProvider>
 				<Analytics />
 			</body>
