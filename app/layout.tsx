@@ -6,6 +6,7 @@ import { Suspense } from "react";
 import Script from "next/script";
 import "./globals.css";
 import { LanguageProvider } from "@/lib/language-context";
+import GtmPageView from "./gtmPageView";
 
 const geistMono = Geist_Mono({
 	subsets: ["latin"],
@@ -97,6 +98,7 @@ export default function RootLayout({
 				)}
 			</head>
 			<body className='font-sans'>
+				{isProd && GTM_ID && <GtmPageView />}
 				{isProd && GTM_ID && (
 					<noscript
 						dangerouslySetInnerHTML={{
