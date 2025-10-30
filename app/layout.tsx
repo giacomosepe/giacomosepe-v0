@@ -70,15 +70,11 @@ export default function RootLayout({
 	return (
 		<html lang='en' className={`${geistMono.variable} antialiased`}>
 			<head>
-				<Script
-					src='https://cdn.cookie-script.com/s/274754e7ccf48301a6d89b1cbfbc08b5.js'
-					strategy='beforeInteractive'
-				/>
+				
 				{isProd && GTM_ID && (
 					<Script
 						id='gtm-base'
-						type="text/plain"                 // <-- tell CookieScript not to run it yet
-    					data-cookiecategory="targeting"   // <-- category to allow after consent
+						
 						strategy='beforeInteractive'
 						dangerouslySetInnerHTML={{
 							__html: `
