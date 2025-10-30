@@ -79,7 +79,7 @@ export default function RootLayout({
 						id='gtm-base'
 						type="text/plain"                 // <-- tell CookieScript not to run it yet
     					data-cookiecategory="performance"   // <-- category to allow after consent
-						strategy='afterInteractive'
+						strategy='beforeInteractive'
 						dangerouslySetInnerHTML={{
 							__html: `
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
