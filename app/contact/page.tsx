@@ -8,8 +8,6 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import { useLanguage } from "@/lib/language-context";
-import Nav from "@/components/Nav";
-import Foot from "@/components/Foot";
 
 export default function ContactPage() {
 	const { t } = useLanguage();

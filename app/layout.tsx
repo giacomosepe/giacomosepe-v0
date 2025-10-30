@@ -100,7 +100,12 @@ export default function RootLayout({
 				)}
 			</head>
 			<body className='font-sans'>
-				{isProd && GTM_ID && <GtmPageView />}
+				{isProd && GTM_ID && (
+					<Suspense fallback={null}>
+						<GtmPageView />
+					</Suspense>
+				)}
+
 				{isProd && GTM_ID && (
 					<noscript
 						dangerouslySetInnerHTML={{
