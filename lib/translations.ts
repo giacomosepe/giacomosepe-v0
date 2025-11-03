@@ -5,15 +5,15 @@ export const translations = {
 		substack: "Substack",
 
 		// Home Page
-		title: "Operations specialist",
+		title: "Operations, Financial Communications",
 		intro:
-			"I partner with shareholders and entrepreneurs as they plan for strategic transformations like capital raising, partnerships, international expansion, or tech investments. I help them make it easier for new investors and partners to recognize their value and potential.",
+			"I partner with shareholders and entrepreneurs as they plan for strategic transformations. Capital raising, partnerships for (international) expansion, relevant tech transformations or organizational restructuring are some of the main turning points. I help them navigate during these defining moments and to communicate to new investors and partners real and potential value of the business.",
 		approach:
-			"Companies can get better valuation if they master three key areas: Execution: have systems in place to streamline delivery, taking less strategic activities off the schedule of the CEO; Scalability: rely on technology to help employees deal with complexity and collect the relevant data; Clarity: communicate the vision, the positioning, and the value consistently both internally and extenrally, using reliable data and coehrent and simple messaging.",
+			"After years of working with companies I noticed that three key areas have a high impact on valuation: Scalability: have systems in place to streamline processes, making delivery smooth and taking activities off the schedule of the CEO; Execution: rely on technology and knowledge to help employees deal with complexity, avoid sylos, and learn continuously; Clarity: define very strongly positioning and messaging, identify key metrics and communicate them to investors and partners with simple and effective messaging.",
 		dayToDay:
 			"On a day to day, I run special projects that simplify work and clarify communications.",
 		result:
-			"After 6-9 months working together, companies are better positioned to get higher value from investors, thanks to clear, long-term, and shared vision, simple, repeatable, and autonomous revenue processes, and effective pitches for sales, partners / distributors, and investors.",
+			"After a few months working together, companies are better positioned to get higher value from investors, thanks to clear, long-term, and shared vision, simple, repeatable, and autonomous revenue processes, and effective pitches for sales, partners / distributors, and investors.",
 
 		// Background
 		background:
@@ -65,13 +65,13 @@ export const translations = {
 		// Home Page
 		title: "Specialista Operations e comunicazione strategica",
 		intro:
-			"Collaboro con azionisti e imprenditori quando pianificano una trasformazione strategica come un aumento di capitale, una partnership strategica o per lo sviluppo internazionale, e investimenti tecnologici. Li aiuto a rendere piu' appetibile l'azienda a potenziali partner e investitori.",
+			"Collaboro con azionisti e imprenditori quando pianificano una trasformazione strategica come un aumento di capitale, partnership per lo sviluppo (internazionale), investimenti tecnologici o ristrutturazioni industriali. Li aiuto a rendere piu' appetibile l'azienda a potenziali partner e investitori.",
 		approach:
-			"Dopo piu' di 10 anni lavorando come manager che collega investitori e imprenditori, ritengo che per avere maggiore appetibilita' e valore finanziario, le aziende devono attrezzarsi in 3 macro categorie: execution: mettere in piedi un sistema per semplificare i processi (soprattutto di vendita), e sollevare il CEO dai compiti meno strategici; scalabilita': utilizzare software per aiutare chi lavora a gestire la complessita' e raccoglliere i dati piu' importanti, e rendere l'azienda autonoma rispetto al CEO; chiarezza: comunicare la vision, il posizionamento, e il valore in modo coerente sia internamente che esternamente, usando dati e messaggi in modo semplice.",
+			" Dopo anni di lavoro a fianco di diverse aziende, ho capito che tre aree chiave incidono in modo decisivo sul valore di un’impresa: Scalabilità: creare sistemi che semplificano i processi, rendono l’operatività fluida e liberano tempo al CEO. Execution: integrare tecnologia e competenze per aiutare i team a gestire la complessità, evitare i silos e apprendere in modo continuo. Chiarezza: definire con precisione il posizionamento e il messaging, individuare gli indicatori economici e finanziari più rilevanti e comunicarli  in modo semplice ed efficace a investitori e partner.",
 		dayToDay:
-			"Nella pratica quotdiana, gestisco progetti speciali che semplificano il lavoro e aumentano la chiarezza della comunicazione strategica.",
+			"Nella pratica quotdiana, in sostanza gestisco progetti speciali con l'obiettivo di semplificare il lavoro e aumentare la chiarezza della comunicazione strategica.",
 		result:
-			"Dopo 6-9 mesi di collaborazione le aziende sono meglio strutturate per una negoziazione con possibili interlocutori grazie a una visione chiara e condivisa, processi di lavoro semplificati e autonomi, e una documentazione chiara a supporto delle negoziazione con partner e investitori.",
+			"Dopo pochi mesi di collaborazione le aziende sono meglio strutturate per una negoziazione con possibili interlocutori grazie a una visione chiara e condivisa, processi di lavoro semplificati e autonomi, e una documentazione chiara a supporto delle negoziazione con partner e investitori.",
 
 		// Background
 		background:
