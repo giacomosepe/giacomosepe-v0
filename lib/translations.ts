@@ -5,19 +5,23 @@ export const translations = {
 		substack: "Substack",
 
 		// Home Page
-		title: "Operations, Financial Communications",
-		intro:
-			"I partner with shareholders and entrepreneurs as they plan for strategic transformations. Capital raising, partnerships for (international) expansion, relevant tech transformations or organizational restructuring are some of the main turning points. I help them navigate during these defining moments and to communicate to new investors and partners real and potential value of the business.",
-		approach:
-			"After years of working with companies I noticed that three key areas have a high impact on valuation: Scalability: have systems in place to streamline processes, making delivery smooth and taking activities off the schedule of the CEO; Execution: rely on technology and knowledge to help employees deal with complexity, avoid sylos, and learn continuously; Clarity: define very strongly positioning and messaging, identify key metrics and communicate them to investors and partners with simple and effective messaging.",
-		dayToDay:
-			"On a day to day, I run special projects that simplify work and clarify communications.",
-		result:
-			"After a few months working together, companies are better positioned to get higher value from investors, thanks to clear, long-term, and shared vision, simple, repeatable, and autonomous revenue processes, and effective pitches for sales, partners / distributors, and investors.",
+		title: "Operating Partner",
 
-		// Background
+		intro:
+			"I partners with shareholders of mid-market companies (€2-30M revenue) to scale operations and prepare for exits or capital raises.",
+
+		approach:
+			"I work alongside business owners and managers for 12-24 months to standardize operations, build an ecosystem of strategic partnerships and relationships, and position companies for maximum value in M&A transactions or fundraising.",
+
+		dayToDay:
+			"Day-to-day work includes: operational scaling (financial systems, process documentation, team building), partnership development (building revenue channels through strategic relationships), and exit preparation (preparing data rooms, strengthening financials, improving investor communications).",
+
+		result:
+			"After working together, companies achieve higher valuations thanks to clear financial positioning, documented operations, proven revenue channels, and professional management teams.",
+
+		// background section
 		background:
-			"Background: MBA Columbia University, Sales at Merrill Lynch (EMEA) and Arkadia, Project Manager at Hines (Milano Porta Nuova) and UBS Italia, Operating partner at EQValue Private Equity, Operations manager at UBS Italia, Simmetrico, and CEO at Cotolicious",
+			"20+ years in M&A (Fineurop Soditic), private equity (EQValue), and operations leadership (Hines, UBS, multiple COO/CEO roles). Columbia MBA.",
 
 		// Completed Work
 		completedWork: "Completed Work",
@@ -63,19 +67,23 @@ export const translations = {
 		substack: "Substack",
 
 		// Home Page
-		title: "Specialista Operations e comunicazione strategica",
-		intro:
-			"Collaboro con azionisti e imprenditori quando pianificano una trasformazione strategica come un aumento di capitale, partnership per lo sviluppo (internazionale), investimenti tecnologici o ristrutturazioni industriali. Li aiuto a rendere piu' appetibile l'azienda a potenziali partner e investitori.",
-		approach:
-			" Dopo anni di lavoro a fianco di diverse aziende, ho capito che tre aree chiave incidono in modo decisivo sul valore di un’impresa: Scalabilità: creare sistemi che semplificano i processi, rendono l’operatività fluida e liberano tempo al CEO. Execution: integrare tecnologia e competenze per aiutare i team a gestire la complessità, evitare i silos e apprendere in modo continuo. Chiarezza: definire con precisione il posizionamento e il messaging, individuare gli indicatori economici e finanziari più rilevanti e comunicarli  in modo semplice ed efficace a investitori e partner.",
-		dayToDay:
-			"Nella pratica quotdiana, in sostanza gestisco progetti speciali con l'obiettivo di semplificare il lavoro e aumentare la chiarezza della comunicazione strategica.",
-		result:
-			"Dopo pochi mesi di collaborazione le aziende sono meglio strutturate per una negoziazione con possibili interlocutori grazie a una visione chiara e condivisa, processi di lavoro semplificati e autonomi, e una documentazione chiara a supporto delle negoziazione con partner e investitori.",
+		title: "Operating Partner",
 
-		// Background
+		intro:
+			"Aiuto aziende di medie dimensioni (€2-30M di fatturato) snellire e automatizzare i processi e prepararsi per exit o raccolta di capitale.",
+
+		approach:
+			"Lavoro al fianco di imprenditori e azionisti per 12-24 mesi per semplficiare le operazioni, costruire l'ecosistema di partnership strategiche e relazioni e posizionare le aziende per massimizzare il valore in transazioni M&A o fundraising.",
+
+		dayToDay:
+			"Attività quotidiane: scaling operativo (sistemi finanziari, documentazione processi, team building), sviluppo di un ecosistema di partner (costruzione canali di ricavi attraverso relazioni strategiche), preparazione exit (preparazione data room, rafforzamento dati finanziari, miglioramento comunicazione investitori).",
+
+		result:
+			"L'obiettivo ultimo del mio lavoro e' raggiungere e giustificare valutazioni più alte grazie a: posizionamento finanziario chiaro, operazioni documentate, canali di ricavi comprovati, e team manageriali professionali.",
+
+		// background section
 		background:
-			"Background: MBA Columbia University, Sales presso Merrill Lynch (EMEA) e Arkadia, Project Manager presso Hines (Milano Porta Nuova) e UBS Italia, Operating partner presso EQValue Private Equity, Operations manager presso UBS Italia, Simmetrico, e CEO presso Cotolicious",
+			"20+ anni in M&A (Fineurop Soditic), private equity (EQValue), e leadership operativa (Hines, UBS, diversi ruoli COO/CEO). MBA da Columbia.",
 
 		// Completed Work
 		completedWork: "Lavori Completati",
