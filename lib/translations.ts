@@ -8,7 +8,7 @@ export const translations = {
 		title: "Operating Partner",
 
 		intro:
-			"I partners with shareholders of mid-market companies (€2-30M revenue) to scale operations and prepare for exits or capital raises.",
+			"I partner with shareholders of mid-market companies (€2-30M revenue) to scale operations and prepare for exits or capital raises.",
 
 		approach:
 			"I work alongside business owners and managers for 12-24 months to standardize operations, build an ecosystem of strategic partnerships and relationships, and position companies for maximum value in M&A transactions or fundraising.",
@@ -17,30 +17,32 @@ export const translations = {
 			"Day-to-day work includes: operational scaling (financial systems, process documentation, team building), partnership development (building revenue channels through strategic relationships), and exit preparation (preparing data rooms, strengthening financials, improving investor communications).",
 
 		result:
-			"After working together, companies achieve higher valuations thanks to clear financial positioning, documented operations, proven revenue channels, and professional management teams.",
+			"After working together, companies achieve higher valuations thanks to clear financial positioning, documented operations, proven revenue channels, and professional management teams. ",
 
 		// background section
 		background:
 			"20+ years in M&A (Fineurop Soditic), private equity (EQValue), and operations leadership (Hines, UBS, multiple COO/CEO roles). Columbia MBA.",
 
 		// Completed Work
-		completedWork: "Completed Work",
-		cotolicious: "IPE holding family office —",
+		completedWork: "Select experience",
+		cotolicious: "IPE holding family office — ",
 		cotoliciousDesc:
-			"Portfolio advisor and COO of Cotolicious. Streamlined workflows and software, created data dashboard, launched online service.",
-		picciotto: "Picciotto family office —",
+			"COO, Cotolicious (IPE Holdings portfolio company) - Built financial dashboards, streamlined operations, launched e-commerce. Successfully prepared and executed company sale.",
+		picciotto: "Picciotto family office — ",
 		picciottoDesc:
-			"Portfolio manager and financial communication for new partnerships and divestments.",
-		simmetrico: "Simmetrico",
+			"Managed investment portfolio across 5 companies (hospitality, entertainment). Supported partnerships and divestments.",
+		simmetrico: "Simmetrico - ",
 		simmetricoDesc:
-			"— Redesigned org chart, built cash flow dashboard, launched productized service. Result: improved bank negotiations, product rights sold to Chinese distributor.",
-		otherWork: "Chamilia",
-		otherWorkDesc: "(acquired by Swarovski) — Head of Commerce.",
-		eqvalue: "EQValue Private equity investment club",
+			"Redesigned org structure, built cash flow dashboard, launched new service line. Improved bank negotiations, sold product rights to Chinese distributor.",
+		otherWork: "Chamilia - ",
+		otherWorkDesc:
+			"(acquired by Swarovski) — Head of Commerce: Commercial leadership during growth phase and acquisition.",
+		eqvalue: "EQValue Private equity investment club - ",
 		eqvalueDesc:
-			"— Portfolio manager and investors relations for private equity investments in small and medium businesses.",
-		fineurop: "Fineurop Soditic",
-		fineuropDesc: "— Client acquisition & account management.",
+			"Originated and closed 4 investments (€1-10M). Improved portfolio company performance metrics 5-10% pre-exit.",
+		fineurop: "Fineurop Soditic - ",
+		fineuropDesc:
+			"Originated and executed deals worth €30M and €80M for private equity clients.",
 		flamme: "Flamme",
 		flammeDesc: "— Sales & Sales Ops.",
 
@@ -86,23 +88,25 @@ export const translations = {
 			"20+ anni in M&A (Fineurop Soditic), private equity (EQValue), e leadership operativa (Hines, UBS, diversi ruoli COO/CEO). MBA da Columbia.",
 
 		// Completed Work
-		completedWork: "Lavori Completati",
-		cotolicious: "IPE holding family office —",
+		completedWork: "Casi di successo",
+		cotolicious: "IPE holding family office — ",
 		cotoliciousDesc:
-			"Portfolio advisor e COO di Cotolicious. Ottimizzato flussi di lavoro e software, creato dashboard dati, lanciato servizio online.",
+			"Creazione dashboard finanziari, ottimizzazione operazioni, lancio e-commerce. Preparazione e vendita azienda completata con successo.",
 		picciotto: "Picciotto family office —",
 		picciottoDesc:
-			"Portfolio manager e comunicazione finanziaria per nuove partnership e dismissioni.",
-		simmetrico: "Simmetrico",
+			"Gestione portfolio investimenti su 5 aziende (hospitality, entertainment). Supporto partnership e disinvestimenti.",
+		simmetrico: "Simmetrico - ",
 		simmetricoDesc:
-			"— Ridisegnato organigramma, costruito dashboard del flusso di cassa, lanciato servizio productizzato. Risultato: migliorate negoziazioni bancarie, diritti del prodotto venduti a distributore cinese.",
+			"Ridisegno struttura organizzativa, creazione dashboard cash flow, lancio nuova linea servizi. Miglioramento negoziazioni bancarie, vendita diritti prodotto a distributore cinese.",
 		otherWork: "Chamilia",
-		otherWorkDesc: "(acquisita da Swarovski) — Head of Commerce.",
-		eqvalue: "EQValue Private equity investment club",
+		otherWorkDesc:
+			"(acquisita da Swarovski) — Head of Commerce. Leadership commerciale durante fase crescita e acquisizione.",
+		eqvalue: "EQValue Private equity investment club - ",
 		eqvalueDesc:
-			"— Portfolio manager e investor relations per investimenti di private equity in piccole e medie imprese.",
-		fineurop: "Fineurop Soditic",
-		fineuropDesc: "— Acquisizione clienti e gestione account.",
+			"Origination e chiusura 4 investimenti (€1-10M). Miglioramento performance aziende portfolio 5-10% pre-exit.",
+		fineurop: "Fineurop Soditic - ",
+		fineuropDesc:
+			"Acquisizione clienti e esecuzione deal per €30M e €80M per clienti private equity.",
 		flamme: "Flamme",
 		flammeDesc: "— Sales & Sales Ops.",
 
