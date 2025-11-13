@@ -145,6 +145,51 @@ export default function ContactPage() {
 						{isSubmitting ? t("submitting") : t("submitButton")}
 					</Button>
 				</form>
+				{/*  
+				<div className='mt-30'>
+					<h2 className='text-1.5xl md:text-2xl font-bold text-balance'>
+						Some common questions:
+					</h2>
+					<div>
+						<h4 className='text1.2xl font-bold text-balance mt-2 mb-4'>
+							What kind of companies do you generally work with?
+						</h4>
+						<p className='mb-8 text-justify'>
+							I work with shareholders of established businesses and sometime
+							startups before they start approaching investors. They own
+							companies that normally lack of financial clarity, management is
+							overloaded with work, are not using integrated software to manage
+							go to market and messaging is not focused on their customers /
+							partner.
+						</p>
+						<h4 className='text1.2xl font-bold text-balance mt-2 mb-4'>
+							‍ What if I have an M&A advisor? What if I am still in beta or
+							building an MVP?
+						</h4>
+						<p className='mb-8 text-justify'>
+							I don’t work with pre-launch or very early release products. At
+							that stage I believe you need to keep your positioning fairly
+							loose. I recommend you read my book, Obviously Awesome, to get a
+							better understanding of how to craft your positioning, once you
+							start to get some traction with paying customers.
+						</p>
+						‍ Do you work with B2B and B2C companies? I mainly work with B2B
+						companies. I worked for 25 years inside companies that sold to
+						businesses. I have worked with some B2C companies but generally only
+						where the product is a considered purchase and there is some form of
+						sales interaction in the purchase process. ‍ What's the lead time to
+						work with you? ‍I'm generally booked a few months in advance. I'm
+						currently booking workshops for Q1 2026. Can I pay you for an hour
+						of your time? Unfortunately no. You can read my books however. I
+						wrote them with the goal of answering the most common positioning
+						and sales pitch questions. ‍ What is your speaking fee? Can I get
+						you as a guest on my podcast? The audiences that love me most are
+						tech executives, entrepreneurs, innovators, marketing executives and
+						product leaders. My fee varies depending on the audience and the
+						commitment. Contact me and we can discuss it more.
+					</div>
+				</div>
+				*/}
 			</div>
 		</div>
 	);

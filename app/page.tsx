@@ -1,8 +1,11 @@
 "use client";
 
 import { Github, Linkedin } from "lucide-react";
+import Link from "next/link";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Button, buttonVariants } from "@/components/ui/button";
 import { useLanguage } from "@/lib/language-context";
+
 import Nav from "@/components/Nav";
 import Foot from "@/components/Foot";
 
@@ -237,6 +240,12 @@ export default function Home() {
 						<p>{t("approach")}</p>
 						<p>{t("dayToDay")}</p>
 						<p>{t("result")}</p>
+
+						<Link href='/contact'>
+							<Button className='cursor-pointer mt-8 mb-4' variant='outline'>
+								{t("openTo")}
+							</Button>
+						</Link>
 					</div>
 
 					<div className='pt-4 block md:hidden'>

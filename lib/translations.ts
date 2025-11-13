@@ -19,6 +19,8 @@ export const translations = {
 		result:
 			"After working together, companies achieve higher valuations thanks to clear financial positioning, documented operations, proven revenue channels, and professional management teams. ",
 
+		openTo: "Let's work together",
+
 		// background section
 		background:
 			"20+ years in M&A (Fineurop Soditic), private equity (EQValue), and operations leadership (Hines, UBS, multiple COO/CEO roles). Columbia MBA.",
@@ -28,7 +30,7 @@ export const translations = {
 		cotolicious: "IPE holding family office — ",
 		cotoliciousDesc:
 			"COO, Cotolicious (IPE Holdings portfolio company) - Built financial dashboards, streamlined operations, launched e-commerce. Successfully prepared and executed company sale.",
-		picciotto: "Picciotto family office — ",
+		picciotto: "De Picciotto family office — ",
 		picciottoDesc:
 			"Managed investment portfolio across 5 companies (hospitality, entertainment). Supported partnerships and divestments.",
 		simmetrico: "Simmetrico - ",
@@ -47,9 +49,9 @@ export const translations = {
 		flammeDesc: "— Sales & Sales Ops.",
 
 		// Contact Page
-		contactTitle: "Easiest way to reach me",
+		contactTitle: "How can I help?",
 		contactSubtitle:
-			"Happy to talk about leadership, software and the transformations that make companies more valuable.",
+			"The best way to understand if we can work together is a short conversaion. Send me a message and I will be in touch.",
 		nameLabel: "Name",
 		namePlaceholder: "Your name",
 		emailLabel: "Email",
@@ -81,7 +83,9 @@ export const translations = {
 			"Attività quotidiane: scaling operativo (sistemi finanziari, documentazione processi, team building), sviluppo di un ecosistema di partner (costruzione canali di ricavi attraverso relazioni strategiche), preparazione exit (preparazione data room, rafforzamento dati finanziari, miglioramento comunicazione investitori).",
 
 		result:
-			"L'obiettivo ultimo del mio lavoro e' raggiungere e giustificare valutazioni più alte grazie a: posizionamento finanziario chiaro, operazioni documentate, canali di ricavi comprovati, e team manageriali professionali.",
+			"L'obiettivo ultimo di questo lavoro e' raggiungere e giustificare valutazioni più alte grazie a: posizionamento finanziario chiaro, operazioni documentate, canali di ricavi comprovati, e team manageriali professionali.",
+
+		openTo: "Valutiamo insieme come collaborare",
 
 		// background section
 		background:
@@ -92,7 +96,7 @@ export const translations = {
 		cotolicious: "IPE holding family office — ",
 		cotoliciousDesc:
 			"Creazione dashboard finanziari, ottimizzazione operazioni, lancio e-commerce. Preparazione e vendita azienda completata con successo.",
-		picciotto: "Picciotto family office —",
+		picciotto: "De Picciotto family office —",
 		picciottoDesc:
 			"Gestione portfolio investimenti su 5 aziende (hospitality, entertainment). Supporto partnership e disinvestimenti.",
 		simmetrico: "Simmetrico - ",
@@ -111,9 +115,9 @@ export const translations = {
 		flammeDesc: "— Sales & Sales Ops.",
 
 		// Contact Page
-		contactTitle: "Il modo più semplice per contattarmi",
+		contactTitle: "Come posso essere utile?",
 		contactSubtitle:
-			"Felice di parlare di leadership, software e delle trasformazioni che rendono le aziende più preziose.",
+			"Il modo migliore per capire se ci sono le condizioni per collaborare e' mandarmi un messaggio. Rispondo rapidamente.",
 		nameLabel: "Nome",
 		namePlaceholder: "Il tuo nome",
 		emailLabel: "Email",
