@@ -8,7 +8,7 @@ export const translations = {
 		title: "Operating Partner",
 
 		intro:
-			"I partner with shareholders of mid-market companies ($2.5-20M revenue) to scale operations and prepare for exits or capital raises.",
+			"I offer solutions to shareholders of small and micro companies ($2.5-20M revenue) who want to prepare for exits or capital raises and share the importance of having lean and automated processes, simplifying messaging, and monitoring financial performance in detail.",
 
 		approach:
 			"Every business is ultimately about people. My work involves refining vision, extracting financial data, and improving financial communication so that business value is crystal clear to investors and partners, standardizing operations so that internal people know what to do autonomously, building the ecosystem of partnerships and revenue channels so that external people love and support what we do.",
@@ -74,7 +74,7 @@ export const translations = {
 		title: "Operating Partner",
 
 		intro:
-			"Aiuto aziende di medie dimensioni (€2-18M di fatturato) snellire e automatizzare i processi e prepararsi per exit o raccolta di capitale.",
+			"Porto soluzioni ad azionisti di piccole e piccolissime dimensioni (€2-18M di fatturato) che vogliono prepararsi per exit o raccolta di capitale e condividono l'esigenza di snellire e automatizzare i processi, semplificare la comunicazione e rappresentare l'andamento finanziario in modo dettagliato.",
 
 		approach:
 			"Ogni business è in ultima analisi fatto di persone. Il mio lavoro consiste nell'affinare la visione, estrarre dati finanziari e migliorare la comunicazione finanziaria in modo che il valore aziendale sia cristallino per investitori e partner, standardizzare le operations affinché le persone interne sappiano cosa fare autonomamente, costruire l'ecosistema di partnership e canali di ricavo affinché le persone esterne amino e supportino ciò che facciamo.",
