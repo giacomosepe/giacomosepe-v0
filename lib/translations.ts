@@ -8,16 +8,16 @@ export const translations = {
 		title: "Operating Partner",
 
 		intro:
-			"I partner with shareholders of mid-market companies (€2-30M revenue) to scale operations and prepare for exits or capital raises.",
+			"I partner with shareholders of mid-market companies ($2.5-20M revenue) to scale operations and prepare for exits or capital raises.",
 
 		approach:
-			"I work alongside business owners and managers for 12-24 months to standardize operations, build an ecosystem of strategic partnerships and relationships, and position companies for maximum value in M&A transactions or fundraising.",
+			"Every business is ultimately about people. My work involves refining vision, extracting financial data, and improving financial communication so that business value is crystal clear to investors and partners, standardizing operations so that internal people know what to do autonomously, building the ecosystem of partnerships and revenue channels so that external people love and support what we do.",
 
 		dayToDay:
-			"Day-to-day work includes: operational scaling (financial systems, process documentation, team building), partnership development (building revenue channels through strategic relationships), and exit preparation (preparing data rooms, strengthening financials, improving investor communications).",
+			"Day-to-day work includes: operational scaling (financial systems, process documentation, team building), partnership development (building revenue channels through strategic relationships), and exit preparation (preparing data rooms, strengthening financials, taking responsibility for investor communications).",
 
 		result:
-			"After working together, companies achieve higher valuations thanks to clear financial positioning, documented operations, proven revenue channels, and professional management teams. ",
+			"I work alongside business owners and managers for 12-24 and position companies with the goal of achieving maximum value in M&A transactions or fundraising. ",
 
 		openTo: "Let's work together",
 
@@ -74,18 +74,18 @@ export const translations = {
 		title: "Operating Partner",
 
 		intro:
-			"Aiuto aziende di medie dimensioni (€2-30M di fatturato) snellire e automatizzare i processi e prepararsi per exit o raccolta di capitale.",
+			"Aiuto aziende di medie dimensioni (€2-18M di fatturato) snellire e automatizzare i processi e prepararsi per exit o raccolta di capitale.",
 
 		approach:
-			"Lavoro al fianco di imprenditori e azionisti per 12-24 mesi per semplficiare le operazioni, costruire l'ecosistema di partnership strategiche e relazioni e posizionare le aziende per massimizzare il valore in transazioni M&A o fundraising.",
+			"Ogni business è in ultima analisi fatto di persone. Il mio lavoro consiste nell'affinare la visione, estrarre dati finanziari e migliorare la comunicazione finanziaria in modo che il valore aziendale sia cristallino per investitori e partner, standardizzare le operations affinché le persone interne sappiano cosa fare autonomamente, costruire l'ecosistema di partnership e canali di ricavo affinché le persone esterne amino e supportino ciò che facciamo.",
 
 		dayToDay:
 			"Attività quotidiane: scaling operativo (sistemi finanziari, documentazione processi, team building), sviluppo di un ecosistema di partner (costruzione canali di ricavi attraverso relazioni strategiche), preparazione exit (preparazione data room, rafforzamento dati finanziari, miglioramento comunicazione investitori).",
 
 		result:
-			"L'obiettivo ultimo di questo lavoro e' raggiungere e giustificare valutazioni più alte grazie a: posizionamento finanziario chiaro, operazioni documentate, canali di ricavi comprovati, e team manageriali professionali.",
+			"Lavoro al fianco di imprenditori e manager per 12-24 mesi con l'obiettivo di posizionare le aziende per ottenere il massimo valore in transazioni di M&A o raccolte di capitale",
 
-		openTo: "Valutiamo insieme come collaborare",
+		openTo: "Parliamo di come collaborare!",
 
 		// background section
 		background:
