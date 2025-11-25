@@ -8,16 +8,16 @@ export const translations = {
 		title: "Operating Partner",
 
 		intro:
-			"I offer solutions to shareholders of small and micro companies ($2.5-20M revenue) who want to prepare for exits or capital raises and share the importance of having lean and automated processes, simplifying messaging, and monitoring financial performance in detail.",
+			"Leadership teams are drowning in an ocean of new tech options and shifting customers needs. They struggle to find, train, and retain valuable employees, they need to upgrade the technology stack, and they compete with both multinationals and tech startups innovating furiously.",
 
 		approach:
-			"Every business is ultimately about people. My work involves refining vision, extracting financial data, and improving financial communication so that business value is crystal clear to investors and partners, standardizing operations so that internal people know what to do autonomously, building the ecosystem of partnerships and revenue channels so that external people love and support what we do.",
+			"Every business is ultimately about people. When shareholders realize they need to transform their companies into modern organizations I help them set up an investment playbook and execute on it. With clear vision, procedures, and messaging so that both internal and external people understand, share and support what we do.",
 
 		dayToDay:
-			"Day-to-day work includes: operational scaling (financial systems, process documentation, team building), partnership development (building revenue channels through strategic relationships), and exit preparation (preparing data rooms, strengthening financials, taking responsibility for investor communications).",
+			"Over many years and different experiences I developed specialized competencies for small businesses to discover, finance and invest in new solutions for customers (new revenue streams), modernize and scale go to market (partnerships, distribution, automation), refine positioning and messaging (prep for exit/capital raising/international expansion).",
 
 		result:
-			"I work alongside business owners and managers for 12-24 and position companies with the goal of achieving maximum value in M&A transactions or fundraising. ",
+			"Shareholders I worked with ended up having businesses equipped with modern, scalable, technology powered, valuable and viable solutions to customers problems.",
 
 		openTo: "Let's work together",
 
@@ -74,18 +74,18 @@ export const translations = {
 		title: "Operating Partner",
 
 		intro:
-			"Porto soluzioni ad azionisti di piccole e piccolissime dimensioni (€2-18M di fatturato) che vogliono prepararsi per exit o raccolta di capitale e condividono l'esigenza di snellire e automatizzare i processi, semplificare la comunicazione e rappresentare l'andamento finanziario in modo dettagliato.",
+			"Chi gestisce un'azienda e' sommerso da una marea di nuove opzioni tecnologiche e dal continuo cambiamento cambiamento dei comportamenti e delle esigenze del mercato. Fa fatica a trovare, formare e trattenere dipendenti di valore, deve aggiornare lo stack tecnologico ed e' in competizione sia con multinazionali che con startup tecnologiche che innovano furiosamente.",
 
 		approach:
-			"Ogni business è in ultima analisi fatto di persone. Il mio lavoro consiste nell'affinare la visione, estrarre dati finanziari e migliorare la comunicazione finanziaria in modo che il valore aziendale sia cristallino per investitori e partner, standardizzare le operations affinché le persone interne sappiano cosa fare autonomamente, costruire l'ecosistema di partnership e canali di ricavo affinché le persone esterne amino e supportino ciò che facciamo.",
+			"Ogni azienda riguarda in ultima analisi le persone. Quando gli azionisti si rendono conto di dover trasformare le loro aziende in organizzazioni moderne, li aiuto impostare un playbook di investimento e a metterlo in pratica. Con una visione chiara, procedure e messaggi che permettano sia alle persone interne che esterne di comprendere, condividere e sostenere ciò che facciamo. Supporto anche i processi per creare ecosistemi di partnership e canali che molitiplicano gli sforzi fatti per modernizzarsi.",
 
 		dayToDay:
-			"Attività quotidiane: scaling operativo (sistemi finanziari, documentazione processi, team building), sviluppo di un ecosistema di partner (costruzione canali di ricavi attraverso relazioni strategiche), preparazione exit (preparazione data room, rafforzamento dati finanziari, miglioramento comunicazione investitori).",
+			"Nel corso degli anni con esperienze diverse ho sviluppato competenze specifiche per aiutare lo sviluppo e la valorizzazioen delle piccole imprese. Mi occupo sia di attivita' strategiche che estremamente operative come identificare bisogni, finanziare innovazione e investire in nuove soluzioni per i clienti (nuove linee di ricavo), modernizzare e scalare il go-to-market (partnership, distribuzione, automazione), affinare posizionamento e messaggi (preparazione per exit/raccolta capitali/espansione internazionale)",
 
 		result:
-			"Lavoro al fianco di imprenditori e manager per 12-24 mesi con l'obiettivo di posizionare le aziende per ottenere il massimo valore in transazioni di M&A o raccolte di capitale",
+			"Gli azionisti con cui ho lavorato si sono trovati con aziende moderne, scalabili, tecnologicamente aggiornate, e con un portafoglio di prodotti e servizi di valore a utili per i loro clienti.",
 
-		openTo: "Parliamo di come collaborare!",
+		openTo: "Per parlare di come collaborare >>",
 
 		// background section
 		background:
