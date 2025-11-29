@@ -63,7 +63,7 @@ export const translations = {
 		successMessage:
 			"Your message successfully landed in my inbox. I will be in touch within a few hours.",
 		errorMessage:
-			"Something went wrong. Please try again or email me directly.",
+			"Something went wrong. Please try again or find me on Linekedin.",
 	},
 	it: {
 		// Navbar
@@ -115,21 +115,21 @@ export const translations = {
 		flammeDesc: "— Sales & Sales Ops.",
 
 		// Contact Page
-		contactTitle: "Come posso essere utile?",
+		contactTitle: "(Come) posso essere utile?",
 		contactSubtitle:
 			"Il modo migliore per capire se ci sono le condizioni per collaborare e' mandarmi un messaggio. Rispondo rapidamente.",
 		nameLabel: "Nome",
-		namePlaceholder: "Il tuo nome",
+		namePlaceholder: "Il nome",
 		emailLabel: "Email",
-		emailPlaceholder: "tua.email@esempio.com",
+		emailPlaceholder: "nome.cognome@esempio.com",
 		messageLabel: "Messaggio",
-		messagePlaceholder: "Il tuo messaggio...",
-		submitButton: "Invia il tuo messaggio a Giacomo",
+		messagePlaceholder: "Il messaggio...",
+		submitButton: "Inviare il messaggio a Giacomo",
 		submitting: "Invio in corso...",
 		successMessage:
-			"Il tuo messaggio è arrivato con successo nella mia casella di posta. Ti risponderò entro poche ore.",
+			"Il vostro messaggio è arrivato con successo nella mia casella di posta. Vi risponderò entro poche ore.",
 		errorMessage:
-			"Qualcosa è andato storto. Riprova o inviami un'email direttamente.",
+			"La tecnologia non ha funzionato. Riprovate, per favore, o inviatemi un messaggio diretto su Linkedin.",
 	},
 };
 
