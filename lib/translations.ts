@@ -14,10 +14,10 @@ export const translations = {
 			"Every business is ultimately about people and how they interact. Shareholders challenges today are about peopple. They are struggling to find trained employees, loyal customers, and strategic partners or investors that can multiply go-to-market effectiveness. I help leadership teams create efficient organizations with workflows and technology, communicate vision to strategic partners, and launch new products based on customers feedback.",
 
 		dayToDay:
-			"Over many years and different experiences I battle tested a method that allows companies to build value. I have built new revenue streams, modernized go-to-market with software, improved company positioning.",
+			"Over many years and different experiences I battle tested a method that allows companies to build value by aligning employees, understanding customers and messaging clarity for investors. ",
 
 		result:
-			"Shareholders at 4 companies I worked at, ended up with higher value businesses and were able to sell it to new investors. They built valuabe and viable solutions to customers problems and they built sales pitches and investor decks that secured higher valuations.",
+			"The result of my efforts aligning and connecting people is additional revenue streams, modernized go-to-market with software, improved company positioning.Shareholders at 4 companies I worked at, ended up with higher value businesses and were able to sell it to new investors. They built valuabe and viable solutions to customers problems and they built sales pitches and investor decks that secured higher valuations.",
 
 		openTo: "Let's work together",
 
@@ -80,10 +80,10 @@ export const translations = {
 			"Ogni impresa, in ultima analisi, riguarda le persone e il modo in cui interagiscono. Le persone sono quasi sempre la chiave di uno sviluppo sano. Gli azionisti di imprese familiare oggi affrontano una sfida sulle persone. Faticano a trovare dipendenti formati, clienti fedeli e partner strategici o investitori in grado di moltiplicare l’efficacia del go-to-market. Io aiuto la leadership aziendale a creare organizzazioni efficienti grazie a workflow e software, a comunicare la visione ai partner strategici e a lanciare nuovi prodotti basati sui feedback dei clienti.",
 
 		dayToDay:
-			"Nel corso di molti anni e di esperienze diverse ho messo alla prova del mercato un metodo di sviluppo che aiuta le aziende a creare valore. Ha contribuito a facilitare la costruzione di nuove linee di ricavo, modernizzato il go-to-market con il software e ha reso piu' efficace il posizionamento aziendale.",
+			"Nel corso di molti anni e di esperienze diverse ho messo alla prova del mercato un metodo di sviluppo che aiuta le aziende a creare valore attraverso l'allineamento dei dipendenti, la comprensione dei clienti e la chiarezza del messaging verso investitori e partner. ",
 
 		result:
-			"Gli azionisti delle 4 aziende in cui ho lavorato hanno ottenuto imprese di valore più elevato e sono riusciti a venderle a nuovi investitori. Hanno sviluppato soluzioni valide e sostenibili ai problemi dei clienti e creato sia presentazioni commerciali che investor deck che hanno sostenuto valutazioni più alte.",
+			"Il risultato del mio impegno e' stato di facilitare la costruzione di nuove linee di ricavo, modernizzare il go-to-market con il software e chiarire il posizionamento aziendale. In particolare, gli azionisti delle 4 aziende in cui ho lavorato come operations manager hanno ottenuto imprese di valore più elevato e sono riusciti a venderle a nuovi investitori.",
 
 		openTo: "Per parlare di come collaborare >>",
 
