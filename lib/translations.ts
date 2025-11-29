@@ -77,7 +77,7 @@ export const translations = {
 			"Strategia di operations e innovazione di prodotto che crea valore per gli azionisti.",
 
 		approach:
-			"Ogni impresa, in ultima analisi, riguarda le persone e il modo in cui interagiscono. Le persone sono quasi sempre la chiave di uno sviluppo sano. Gli azionisti faticano a trovare dipendenti formati, clienti fedeli e partner strategici o investitori in grado di moltiplicare l’efficacia del go-to-market. Io aiuto la leadership aziendale a creare organizzazioni efficienti grazie a workflow e tecnologia, a comunicare la visione ai partner strategici e a lanciare nuovi prodotti basati sui feedback dei clienti.",
+			"Ogni impresa, in ultima analisi, riguarda le persone e il modo in cui interagiscono. Le persone sono quasi sempre la chiave di uno sviluppo sano. Gli azionisti di imprese familiare oggi affrontano una sfida sulle persone. Faticano a trovare dipendenti formati, clienti fedeli e partner strategici o investitori in grado di moltiplicare l’efficacia del go-to-market. Io aiuto la leadership aziendale a creare organizzazioni efficienti grazie a workflow e software, a comunicare la visione ai partner strategici e a lanciare nuovi prodotti basati sui feedback dei clienti.",
 
 		dayToDay:
 			"Nel corso di molti anni e di esperienze diverse ho messo alla prova del mercato un metodo di sviluppo che aiuta le aziende a creare valore. Ha contribuito a facilitare la costruzione di nuove linee di ricavo, modernizzato il go-to-market con il software e ha reso piu' efficace il posizionamento aziendale.",
