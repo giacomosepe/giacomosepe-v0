@@ -8,16 +8,16 @@ export const translations = {
 		title: "Operations and product innovation",
 
 		intro:
-			"I am a operations and product innovation strategy manager working with shareholders to generate value for their companies.",
+			"Operations and product innovation strategy that builds value for shareholders.",
 
 		approach:
-			"Every business is ultimately about people and how they interact. I support leadership teams in organizing workflows, communicate the vision, deliver new products.",
+			"Every business is ultimately about people and how they interact. Shareholders are struggling to find trained employees, loyal customers, and strategic partners or investors that can multiply go-to-market effectiveness. I help leadership teams create efficient organizations with workflows and technology, communicate vision to strategic partners, and launch new products based on customers feedback.",
 
 		dayToDay:
-			"Over many years and different experiences I developed specialized competencies for small businesses to add revenue streams, modernize go-to-market with technology and partnerships strategy, refine business positioning and messaging to new investors, distributors, and partners.",
+			"Over many years and different experiences I battle tested a method that allows companies to build value. I have built new revenue streams, modernized go-to-market with software, improved company positioning.",
 
 		result:
-			"Companies ended up having businesses equipped with modern, scalable, technology powered, valuable and viable solutions to customers problems.",
+			"Shareholders at 4 companies I worked at, ended up with higher value businesses and were able to sell it to new investors. They built valuabe and viable solutions to customers problems and they built sales pitches and investor decks that secured higher valuations.",
 
 		openTo: "Let's work together",
 
@@ -74,16 +74,16 @@ export const translations = {
 		title: "Operations e innovazione di prodotto",
 
 		intro:
-			"Sono specializzato in operations e innovazione di prodotto, e lavoro con azionisti di PMI per creare valore finanziario in azienda di piccola o media dimensione.",
+			"Strategia di operations e innovazione di prodotto che crea valore per gli azionisti.",
 
 		approach:
-			"Ogni business riguarda in ultima analisi le persone e come queste interagiscono. Io supporto la leadership di aziende sulla creazione di flussi di lavoro, comunicazione della visione, lancio di nuovi prodotti.",
+			"Ogni impresa, in ultima analisi, riguarda le persone e il modo in cui interagiscono. Le persone sono quasi sempre la chiave di uno sviluppo sano. Gli azionisti faticano a trovare dipendenti formati, clienti fedeli e partner strategici o investitori in grado di moltiplicare l’efficacia del go-to-market. Io aiuto la leadership aziendale a creare organizzazioni efficienti grazie a workflow e tecnologia, a comunicare la visione ai partner strategici e a lanciare nuovi prodotti basati sui feedback dei clienti.",
 
 		dayToDay:
-			"Nel corso di molti anni e diverse esperienze ho sviluppato competenze specialistiche per aiutare le piccole imprese ad aggiungere fonti di fatturato, modernizzare l'approccio al mercato (Go to market) con software e strategie di partnership, con il posizionamento aziendale e con la comunicazione verso investitori, distributori e partner.",
+			"Nel corso di molti anni e di esperienze diverse ho messo alla prova del mercato un metodo di sviluppo che aiuta le aziende a creare valore. Ha contribuito a facilitare la costruzione di nuove linee di ricavo, modernizzato il go-to-market con il software e ha reso piu' efficace il posizionamento aziendale.",
 
 		result:
-			"Gli azionisti con cui ho lavorato hanno ottenuto business equipaggiati con soluzioni moderne, scalabili, basate sulla tecnologia, di valore e sostenibili per i problemi dei clienti.",
+			"Gli azionisti delle 4 aziende in cui ho lavorato hanno ottenuto imprese di valore più elevato e sono riusciti a venderle a nuovi investitori. Hanno sviluppato soluzioni valide e sostenibili ai problemi dei clienti e creato sia presentazioni commerciali che investor deck che hanno sostenuto valutazioni più alte.",
 
 		openTo: "Per parlare di come collaborare >>",
 
