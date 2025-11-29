@@ -77,7 +77,7 @@ export const translations = {
 			"Sono specializzato in operations e innovazione di prodotto, e lavoro con azionisti di PMI per creare valore finanziario in azienda di piccola o media dimensione.",
 
 		approach:
-			"Ogni business riguarda in ultima analisi le persone e come queste interagiscono. Io supporto i team di leadership nell'organizzazione dei flussi di lavoro, comunicazione della visione, lancio di nuovi prodotti.",
+			"Ogni business riguarda in ultima analisi le persone e come queste interagiscono. Io supporto la leadership di aziende sulla creazione di flussi di lavoro, comunicazione della visione, lancio di nuovi prodotti.",
 
 		dayToDay:
 			"Nel corso di molti anni e diverse esperienze ho sviluppato competenze specialistiche per aiutare le piccole imprese ad aggiungere fonti di fatturato, modernizzare l'approccio al mercato (Go to market) con software e strategie di partnership, con il posizionamento aziendale e con la comunicazione verso investitori, distributori e partner.",
