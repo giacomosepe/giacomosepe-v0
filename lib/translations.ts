@@ -5,19 +5,19 @@ export const translations = {
 		substack: "Substack",
 
 		// Home Page
-		title: "Operating Partner",
+		title: "Operations and product innovation",
 
 		intro:
-			"Leadership teams are drowning in an ocean of new tech options and shifting customers needs. They struggle to find, train, and retain valuable employees, they need to upgrade the technology stack, and they compete with both multinationals and tech startups innovating furiously.",
+			"I am a operations and product innovation strategy manager working with shareholders to generate value for their companies.",
 
 		approach:
-			"Every business is ultimately about people. When shareholders realize they need to transform their companies into modern organizations I help them set up an investment playbook and execute on it. With clear vision, procedures, and messaging so that both internal and external people understand, share and support what we do.",
+			"Every business is ultimately about people and how they interact. I support leadership teams in organizing workflows, communicate the vision, deliver new products.",
 
 		dayToDay:
-			"Over many years and different experiences I developed specialized competencies for small businesses to discover, finance and invest in new solutions for customers (new revenue streams), modernize and scale go to market (partnerships, distribution, automation), refine positioning and messaging (prep for exit/capital raising/international expansion).",
+			"Over many years and different experiences I developed specialized competencies for small businesses to add revenue streams, modernize go-to-market with technology and partnerships strategy, refine business positioning and messaging to new investors, distributors, and partners.",
 
 		result:
-			"Shareholders I worked with ended up having businesses equipped with modern, scalable, technology powered, valuable and viable solutions to customers problems.",
+			"Companies ended up having businesses equipped with modern, scalable, technology powered, valuable and viable solutions to customers problems.",
 
 		openTo: "Let's work together",
 
@@ -71,19 +71,19 @@ export const translations = {
 		substack: "Substack",
 
 		// Home Page
-		title: "Operating Partner",
+		title: "Operations e innovazione di prodotto",
 
 		intro:
-			"Chi gestisce un'azienda e' sommerso da una marea di nuove opzioni tecnologiche e dal continuo cambiamento cambiamento dei comportamenti e delle esigenze del mercato. Fa fatica a trovare, formare e trattenere dipendenti di valore, deve aggiornare lo stack tecnologico ed e' in competizione sia con multinazionali che con startup tecnologiche che innovano furiosamente.",
+			"Sono specializzato in operations e innovazione di prodotto, e lavoro con azionisti di PMI per creare valore finanziario in azienda di piccola o media dimensione.",
 
 		approach:
-			"Ogni azienda riguarda in ultima analisi le persone. Quando gli azionisti si rendono conto di dover trasformare le loro aziende in organizzazioni moderne, li aiuto impostare un playbook di investimento e a metterlo in pratica. Con una visione chiara, procedure e messaggi che permettano sia alle persone interne che esterne di comprendere, condividere e sostenere ciò che facciamo. Supporto anche i processi per creare ecosistemi di partnership e canali che molitiplicano gli sforzi fatti per modernizzarsi.",
+			"Ogni business riguarda in ultima analisi le persone e come queste interagiscono. Io supporto i team di leadership nell'organizzazione dei flussi di lavoro, comunicazione della visione, lancio di nuovi prodotti.",
 
 		dayToDay:
-			"Nel corso degli anni con esperienze diverse ho sviluppato competenze specifiche per aiutare lo sviluppo e la valorizzazioen delle piccole imprese. Mi occupo sia di attivita' strategiche che estremamente operative come identificare bisogni, finanziare innovazione e investire in nuove soluzioni per i clienti (nuove linee di ricavo), modernizzare e scalare il go-to-market (partnership, distribuzione, automazione), affinare posizionamento e messaggi (preparazione per exit/raccolta capitali/espansione internazionale)",
+			"Nel corso di molti anni e diverse esperienze ho sviluppato competenze specialistiche per aiutare le piccole imprese ad aggiungere fonti di fatturato, modernizzare l'approccio al mercato (Go to market) con software e strategie di partnership, con il posizionamento aziendale e con la comunicazione verso investitori, distributori e partner.",
 
 		result:
-			"Gli azionisti con cui ho lavorato si sono trovati con aziende moderne, scalabili, tecnologicamente aggiornate, e con un portafoglio di prodotti e servizi di valore a utili per i loro clienti.",
+			"Gli azionisti con cui ho lavorato hanno ottenuto business equipaggiati con soluzioni moderne, scalabili, basate sulla tecnologia, di valore e sostenibili per i problemi dei clienti.",
 
 		openTo: "Per parlare di come collaborare >>",
 
