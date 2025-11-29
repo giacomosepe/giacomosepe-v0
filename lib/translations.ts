@@ -11,13 +11,13 @@ export const translations = {
 			"Operations and product innovation strategy that builds value for shareholders.",
 
 		approach:
-			"Every business is ultimately about people and how they interact. Shareholders challenges today are about peopple. They are struggling to find trained employees, loyal customers, and strategic partners or investors that can multiply go-to-market effectiveness. I help leadership teams create efficient organizations with workflows and technology, communicate vision to strategic partners, and launch new products based on customers feedback.",
+			"Every business is ultimately about people and how they interact. Shareholders challenges today are mainly about peopple. They struggle to find trained employees, loyal customers, strategic partners or investors. I focus on creating value by helping leadership teams create efficient organizations with workflows and technology, communicate vision to strategic partners, and launch new products based on customers feedback.",
 
 		dayToDay:
-			"Over many years and different experiences I battle tested a method that allows companies to build value by aligning employees, understanding customers and messaging clarity for investors. ",
+			"Over many years and different experiences I battle tested a method that allows companies to build value by aligning employees, understanding customers and improving messaging clarity for investors. ",
 
 		result:
-			"The result of my efforts aligning and connecting people is additional revenue streams, modernized go-to-market with software, improved company positioning.Shareholders at 4 companies I worked at, ended up with higher value businesses and were able to sell it to new investors. They built valuabe and viable solutions to customers problems and they built sales pitches and investor decks that secured higher valuations.",
+			"The result of my efforts aligning and connecting people is additional revenue streams, modernized go-to-market with software, improved company positioning.Shareholders at 4 companies I worked at, ended up with higher value businesses and were able to sell them to new investors. They built valuabe and viable solutions to customers problems and they built sales pitches and investor decks that secured higher valuations.",
 
 		openTo: "Let's work together",
 
@@ -77,13 +77,13 @@ export const translations = {
 			"Strategia di operations e innovazione di prodotto che crea valore per gli azionisti.",
 
 		approach:
-			"Ogni impresa, in ultima analisi, riguarda le persone e il modo in cui interagiscono. Le persone sono quasi sempre la chiave di uno sviluppo sano. Gli azionisti di imprese familiare oggi affrontano una sfida sulle persone. Faticano a trovare dipendenti formati, clienti fedeli e partner strategici o investitori in grado di moltiplicare l’efficacia del go-to-market. Io aiuto la leadership aziendale a creare organizzazioni efficienti grazie a workflow e software, a comunicare la visione ai partner strategici e a lanciare nuovi prodotti basati sui feedback dei clienti.",
+			"Ogni impresa, in ultima analisi, riguarda le persone e il modo in cui interagiscono. Le persone sono quasi sempre la chiave di uno sviluppo sano. Gli azionisti di imprese familiare oggi affrontano una sfida sulle persone. Faticano a trovare dipendenti formati, clienti fedeli e partner strategici o investitori. Io aiuto la leadership aziendale a creare organizzazioni efficienti grazie a workflow e software, a comunicare la visione ai partner strategici e a lanciare nuovi prodotti basati sui feedback dei clienti.",
 
 		dayToDay:
-			"Nel corso di molti anni e di esperienze diverse ho messo alla prova del mercato un metodo di sviluppo che aiuta le aziende a creare valore attraverso l'allineamento dei dipendenti, la comprensione dei clienti e la chiarezza del messaging verso investitori e partner. ",
+			"Nel corso di molti anni grazie ad esperienze diverse ho messo alla prova del mercato un metodo di sviluppo aziendale che aiuta a creare valore attraverso l'allineamento dei dipendenti, la comprensione dei clienti e la chiarezza del messaging verso investitori e partner. ",
 
 		result:
-			"Il risultato del mio impegno e' stato di facilitare la costruzione di nuove linee di ricavo, modernizzare il go-to-market con il software e chiarire il posizionamento aziendale. In particolare, gli azionisti delle 4 aziende in cui ho lavorato come operations manager hanno ottenuto imprese di valore più elevato e sono riusciti a venderle a nuovi investitori.",
+			"Il risultato del mio impegno e' stato di facilitare la costruzione di modernizzare le aziende e renderle piu' appetibili. In particolare, gli azionisti delle 4 aziende in cui ho lavorato come operations manager hanno ottenuto imprese di valore più elevato e sono riusciti a venderle a nuovi investitori.",
 
 		openTo: "Per parlare di come collaborare >>",
 
