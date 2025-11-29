@@ -11,7 +11,7 @@ export const translations = {
 			"Operations and product innovation strategy that builds value for shareholders.",
 
 		approach:
-			"Every business is ultimately about people and how they interact. Shareholders are struggling to find trained employees, loyal customers, and strategic partners or investors that can multiply go-to-market effectiveness. I help leadership teams create efficient organizations with workflows and technology, communicate vision to strategic partners, and launch new products based on customers feedback.",
+			"Every business is ultimately about people and how they interact. Shareholders challenges today are about peopple. They are struggling to find trained employees, loyal customers, and strategic partners or investors that can multiply go-to-market effectiveness. I help leadership teams create efficient organizations with workflows and technology, communicate vision to strategic partners, and launch new products based on customers feedback.",
 
 		dayToDay:
 			"Over many years and different experiences I battle tested a method that allows companies to build value. I have built new revenue streams, modernized go-to-market with software, improved company positioning.",
