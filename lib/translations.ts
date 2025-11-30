@@ -11,13 +11,13 @@ export const translations = {
 			"Operations and product innovation strategy that builds value for shareholders.",
 
 		approach:
-			"Every business is ultimately about people and how they interact. Shareholders' challenges today are mainly about peopple. They struggle to find trained employees, loyal customers, strategic partners or investors. I focus on serving leadership teams at small companies in adopting techology, communicating with investors and launching new products that truly customer-driven.",
+			"Every business is ultimately about people and how they interact. Shareholders at small and medium companies struggle to find trained employees, loyal customers who can create longlasting relationships, strategic partners or investors who share the vision.",
 
 		dayToDay:
-			"Over many years and different experiences I developed managerial and technical competencies to generate value for companies like financial communication, innovation strategy and product management.",
+			"I focus on serving leadership teams at small companies to solve their main people and product problems. Over many years and different experiences I developed managerial and technical competencies that help generate value: financial communications, innovation strategy and product management.",
 
 		result:
-			"The result of my efforts aligning and connecting people is additional revenue streams, modernized go-to-market with software, improved company positioning.Shareholders at 4 companies I worked at, ended up with higher value businesses and were able to sell them to new investors. They built valuabe and viable solutions to customers problems and they built sales pitches and investor decks that secured higher valuations.",
+			"The result of my efforts aligning and connecting people is additional revenue streams, modernized go-to-market with software, improved company positioning.Shareholders at 4 companies I worked at, ended up with higher value businesses and were able to sell them to new investors.",
 
 		openTo: "Let's work together",
 
@@ -74,16 +74,16 @@ export const translations = {
 		title: "Operations e innovazione di prodotto",
 
 		intro:
-			"Strategia di operations e innovazione di prodotto che crea valore per gli azionisti.",
+			"Operations e strategia di prodotto per creare valore per gli azionisti.",
 
 		approach:
-			"Ogni impresa, in ultima analisi, riguarda le persone e il modo in cui interagiscono. Le persone sono quasi sempre la chiave di uno sviluppo sano. Gli azionisti di imprese familiare oggi affrontano una sfida sulle persone. Faticano a trovare dipendenti formati, clienti fedeli e partner strategici o investitori. Io servo gli azionisti nel loro obiettivo di creare valore aziendale.",
+			"Ogni impresa, in ultima analisi, e' basata sulle sue persone e sul modo in cui queste interagiscono. Quasi sempre sono le persone giuste la chiave per uno sviluppo sano. Gli azionisti di imprese familiari oggi si trovano a combattere una sfida sulle persone. Trovare dipendenti formati, clienti fedeli con cui creare un rapporto di fiducia, partner strategici o investitori che capiscono la visione.",
 
 		dayToDay:
-			"Nel corso di molti anni grazie ad esperienze diverse ho sviluppato competenze per creare valore in aziende medie, piccole e piccolissime. Tra queste competenze ci sono comunicazione finanziaria, strategia di innovazione e product management.",
+			"Io servo gli azionisti nel loro obiettivo di creare valore aziendale. Nel corso di molti anni ho sviluppato competenze utili per creare valore in aziende medie, piccole e piccolissime. In paritcolare comunicazione finanziaria, progettazione dei processi aziendali e product management per prodotti innovativi.",
 
 		result:
-			"Il risultato del mio impegno e' di solito l'aumento di valore e una maggiore modernita' dei processi anche in occasione della cessione a nuovi investitori.",
+			"Il risultato del mio impegno e' di solito l'aumento di valore e una maggiore modernita' dei processi, specialmente in occasione di cessione a nuovi investitori o partnership.",
 
 		openTo: "Per parlare di come collaborare >>",
 
