@@ -11,13 +11,13 @@ export const translations = {
 			"Operations and product innovation strategy that builds value for shareholders.",
 
 		approach:
-			"Every business is ultimately about people and how they interact. Shareholders at small and medium companies struggle to find trained employees, loyal customers who can create longlasting relationships, strategic partners or investors who share the vision.",
+			"Every business, ultimately, is based on the people and their interactions. Almost always, the right employees and a strong fit with customers are the key to a healthy growth. Very often, small and medium entrepreneurs struggle to attract and retain talent. They find it challenging to attract and convince valuable partners and new investors. They also fight to retain customers and turn them into raving fans.",
 
 		dayToDay:
-			"I focus on serving leadership teams at small companies to solve their main people and product problems. Over many years and different experiences I developed managerial and technical competencies that help generate value: financial communications, innovation strategy and product management.",
+			"My goal is to 1) create efficient organizations where employees are motivated and effective, and 2) develop a communication model based on customer discovery that conveys the vision and growth prospects to clients, partners, and investors.",
 
 		result:
-			"The result of my efforts aligning and connecting people is additional revenue streams, modernized go-to-market with software, improved company positioning.Shareholders at 4 companies I worked at, ended up with higher value businesses and were able to sell them to new investors.",
+			"The work I do usually results in an increase in business value based on solid foundations such as corporate culture, innovation, and economic performance.",
 
 		openTo: "Let's work together",
 
@@ -74,16 +74,16 @@ export const translations = {
 		title: "Operations e innovazione di prodotto",
 
 		intro:
-			"Operations e strategia di prodotto per creare valore per gli azionisti.",
+			"Operations e strategia di prodotto a servizio di azionisti di piccole e medie imprese che vogliono creare organizzazioni scalabili e sostenibili.",
 
 		approach:
-			"Ogni impresa, in ultima analisi, e' basata sulle sue persone e sul modo in cui queste interagiscono. Quasi sempre sono le persone giuste la chiave per uno sviluppo sano. Gli azionisti di imprese familiari oggi si trovano a combattere una sfida sulle persone. Trovare dipendenti formati, clienti fedeli con cui creare un rapporto di fiducia, partner strategici o investitori che capiscono la visione.",
+			"Ogni impresa, in ultima analisi, e' basata sulle sue persone e sulle loro interazioni. Quasi sempre, sono le persone giuste la chiave per uno sviluppo sano. Molto spesso i piccoli e medi imprenditori hanno difficolta' ad attrarre e trattenere le persone. Faticano ad attrarre e convincere partner e nuovi investitori di valore. E combattono per trattenere i clienti e trasformali in fans.",
 
 		dayToDay:
-			"Io servo gli azionisti nel loro obiettivo di creare valore aziendale. Nel corso di molti anni ho sviluppato competenze utili per creare valore in aziende medie, piccole e piccolissime. In paritcolare comunicazione finanziaria, progettazione dei processi aziendali e product management per prodotti innovativi.",
+			"Lo scopo del mio lavoro e' creare organizzazioni efficienti in cui i dipendenti si sentono motivati e possono esprimere le proprie capacita', e sviluppare un modello di comunicazione basato sull'ascolto che trasmetta a clienti, partner e investitori la visione e le prospettive di crescita.",
 
 		result:
-			"Il risultato del mio impegno e' di solito l'aumento di valore e una maggiore modernita' dei processi, specialmente in occasione di cessione a nuovi investitori o partnership.",
+			"Il risultato del mio impegno e' l'aumento di valore aziendale fondato su base solide, come cultura aziendale, innovazione, e performance economica.",
 
 		openTo: "Per parlare di come collaborare >>",
 
