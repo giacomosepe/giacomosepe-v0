@@ -8,18 +8,20 @@ export const translations = {
 		title: "Operations and product innovation",
 
 		intro:
-			"Operations and product innovation strategy that builds value for shareholders.",
+			"Shareholders who want to see their companies scale, face some usual challenges: lack of procedures, management drowning in too many technology options, lack of data leading to financial uncertainty, pressure on service delivery threatening service quality, operations not scaling as fast as revenue, cost growing with revenue, and often messaging addressing as many different clients as possibile that creates undifferentiated offering and positioning confusion.
+
+.",
 
 		approach:
-			"Every business, ultimately, is based on the people and their interactions. Almost always, the right employees and a strong fit with customers are the key to a healthy growth. Very often, small and medium entrepreneurs struggle to attract and retain talent. They find it challenging to attract and convince valuable partners and new investors. They also fight to retain customers and turn them into raving fans.",
+			"In order to generate value for shareholders, managers need to build modern, scalable, and predictable operations and sharp, clear, differentiated messaging. Solutions need to be viable, valuable and feasible. And always more. Need to incorporate sustainability and technology.",
 
 		dayToDay:
-			"My goal is to 1) create efficient organizations where employees are motivated and effective, and 2) develop a communication model based on customer discovery that conveys the vision and growth prospects to clients, partners, and investors.",
+			"As an operator working for shareholders, I support the execution of all aspects leading to building modern and sustainable companies, from investments in technology to building entirely new businesses.",
 
 		result:
-			"The work I do usually results in an increase in business value based on solid foundations such as corporate culture, innovation, and economic performance.",
+			"I own execution from start to finish, as a product manager or as an operations executive. My goal is to give shareholders scalable and sustainable businesses, which always translate into significantly higher valuations for their companies.",
 
-		openTo: "Let's work together",
+		openTo: "Let's talk",
 
 		// background section
 		background:
@@ -74,18 +76,18 @@ export const translations = {
 		title: "Operations e innovazione di prodotto",
 
 		intro:
-			"Operations e strategia di prodotto a servizio di azionisti di piccole e medie imprese che vogliono creare organizzazioni scalabili e sostenibili.",
+			"Gli azionisti che vogliono vedere crescere le proprie aziende, affrontano sfide ricorrenti: assenza di procedure strutturate, management sommerso da troppe opzioni tecnologiche, carenza di dati che genera incertezza finanziaria, pressione sulla consegna dei servizi che minaccia la qualità degli stessi, operations che non scalano alla stessa velocità dei ricavi, costi che crescono proporzionalmente al fatturato e, spesso, messaging rivolto a troppi clienti diversi che porta a un'offerta indifferenziata e confusione nel posizionamento del brand.",
 
 		approach:
-			"Ogni impresa, in ultima analisi, e' basata sulle sue persone e sulle loro interazioni. Quasi sempre, sono le persone giuste la chiave per uno sviluppo sano. Molto spesso i piccoli e medi imprenditori hanno difficolta' ad attrarre e trattenere le persone. Faticano ad attrarre e convincere partner e nuovi investitori di valore. E combattono per trattenere i clienti e trasformali in fans.",
+			"Per generare valore, è necessario costruire operations moderne, scalabili e prevedibili, insieme a messaggi chiari, distintivi che creano differenziazione. Le soluzioni offerte devono essere realizzabili, pratiche e legate a un risultato concreto per gli utenti. E sempre di più. Devono integrare sostenibilità e tecnologia.",
 
 		dayToDay:
-			"Lo scopo del mio lavoro e' creare organizzazioni efficienti in cui i dipendenti si sentono motivati e possono esprimere le proprie capacita', e sviluppare un modello di comunicazione basato sull'ascolto che trasmetta a clienti, partner e investitori la visione e le prospettive di crescita.",
+			"Come professionista al servizio degli azionisti, supporto l'esecuzione di tutto cio' che serve per costruire aziende moderne e sostenibili, dagli investimenti in tecnologia alla creazione di intere nuove linee di business o prodotti.",
 
 		result:
-			"Il risultato del mio impegno e' l'aumento di valore aziendale fondato su base solide, come cultura aziendale, innovazione, e performance economica.",
+			"Gestisco la la creazione dei prodotti e lo sviluppo del business dall'inizio alla fine, o come product manager o come responsabile delle operations. Il mio obiettivo è consegnare agli azionisti aziende scalabili e sostenibili, che si traduce sempre in valutazioni significativamente più alte per le loro società.",
 
-		openTo: "Per parlare di come collaborare >>",
+		openTo: "Per una chiacchierata >>",
 
 		// background section
 		background:
