@@ -8,9 +8,7 @@ export const translations = {
 		title: "Operations and product innovation",
 
 		intro:
-			"Shareholders who want to see their companies scale, face some usual challenges: lack of procedures, management drowning in too many technology options, lack of data leading to financial uncertainty, pressure on service delivery threatening service quality, operations not scaling as fast as revenue, cost growing with revenue, and often messaging addressing as many different clients as possibile that creates undifferentiated offering and positioning confusion.
-
-.",
+			"Shareholders who want to see their companies scale, face some usual challenges: lack of procedures, management drowning in too many technology options, lack of data leading to financial uncertainty, pressure on service delivery threatening service quality, operations not scaling as fast as revenue, cost growing with revenue, and often messaging addressing as many different clients as possibile that creates undifferentiated offering and positioning confusion.",
 
 		approach:
 			"In order to generate value for shareholders, managers need to build modern, scalable, and predictable operations and sharp, clear, differentiated messaging. Solutions need to be viable, valuable and feasible. And always more. Need to incorporate sustainability and technology.",
