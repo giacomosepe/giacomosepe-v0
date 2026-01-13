@@ -5,7 +5,7 @@ export const translations = {
     substack: "Substack",
 
     // Home Page
-    title: "Operations and product innovation",
+    title: "Solutions for companies to turn into technology powered businesses",
 
     intro:
       "Shareholders I work with want to see their companies scale but face some usual challenges: lack of procedures, management drowning in too many technology options, lack of data leading to financial uncertainty, pressure on service delivery threatening service quality, operations not scaling as fast as revenue, cost growing with revenue, and often messaging addressing as many different clients as possibile that creates undifferentiated offering and positioning confusion.",
@@ -71,7 +71,7 @@ export const translations = {
     substack: "Substack",
 
     // Home Page
-    title: "Operations e innovazione di prodotto",
+    title: "Soluzioni per trasformarsi in business tecnologici",
 
     intro:
       "Gli azionisti che vogliono vedere crescere le proprie aziende, affrontano sfide ricorrenti: assenza di procedure strutturate, management sommerso da troppe opzioni tecnologiche, carenza di dati che genera incertezza finanziaria, pressione sulla consegna dei servizi che minaccia la qualità degli stessi, operations che non scalano alla stessa velocità dei ricavi, costi che crescono proporzionalmente al fatturato e, spesso, messaging rivolto a troppi clienti diversi che porta a un'offerta indifferenziata e confusione nel posizionamento del brand.",
