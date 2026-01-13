@@ -236,7 +236,7 @@ export default function Home() {
         {/* Right Column - Bio (2/3) */}
         <div className="md:col-span-2 space-y-6">
           <div className="space-y-4 text-lg md:text-base text-foreground leading-relaxed">
-            <h1 className="text-2xl md:text-6xl font-semibold mb-8">
+            <h1 className="text-4xl md:text-6xl font-semibold mb-8">
               Giacomo Sepe
             </h1>
             <p>{t("intro")}</p>
