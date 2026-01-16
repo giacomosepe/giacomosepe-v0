@@ -21,9 +21,9 @@ export default function Home() {
             "@context": "https://schema.org",
             "@type": "Person",
             name: "Giacomo Sepe",
-            jobTitle: "Operations Specialist",
+            jobTitle: "Investment Manager",
             description:
-              "Operations specialist helping shareholders and entrepreneurs increase company value through software systems, positioning, and messaging for capital raising, partnerships, and international expansion",
+              "Managing portfolio companies investors communications for shareholders. Increasing value through software systems, positioning, and messaging. Leading corporate development initiatives like capital raising, partnerships, and tech investments",
             url: "https://giacomosepe.com",
             sameAs: [
               "https://linkedin.com/in/giacomosepe",
@@ -35,7 +35,7 @@ export default function Home() {
               name: "Columbia Business School",
             },
             knowsAbout: [
-              "Operations Management",
+              "Investment Management",
               "Capital Raising",
               "Business Strategy",
               "M&A",
@@ -45,15 +45,15 @@ export default function Home() {
               "Software Implementation",
               "Business Positioning",
               "Investor Readiness",
-              "International Expansion",
+              "Operations management",
             ],
             hasOccupation: {
               "@type": "Occupation",
               name: "Operations Specialist",
               description:
-                "Specializes in preparing companies for capital raises, acquisitions, and exits by implementing operational systems, refining positioning, and crafting investor messaging. Also supports international expansion and partnerships.",
+                "Specializes in supporting private equity investors and entrepreneurs on capital raises, capital deployment, and operations optimization by implementing systems, refining positioning, and crafting investor messaging.",
               skills: [
-                "Operations Management",
+                "Investment Management",
                 "Capital Raising Strategy",
                 "Business Positioning",
                 "Investor Messaging",
@@ -113,7 +113,7 @@ export default function Home() {
                 name: "What does Giacomo Sepe specialize in?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe is an operations specialist who helps shareholders and entrepreneurs increase company value through software systems implementation, business positioning, and investor messaging. He specializes in preparing companies for capital raises, acquisitions, and exits, as well as supporting international expansion and partnerships.",
+                  text: "Giacomo Sepe is an investment Manager partnering with fund managers and company leaders on the work that creates shareholder value— with special focus on raising institutional capital, improving portfolio performance, and driving corporate development.",
                 },
               },
               {
@@ -121,7 +121,7 @@ export default function Home() {
                 name: "How does Giacomo Sepe help with capital raising?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo helps companies become investor-ready by implementing software and systems to reduce dependency on key team members, refining positioning to strengthen competitiveness, and crafting messaging to anticipate investor objections. This approach results in higher valuations and smoother transactions.",
+                  text: "With years working on both private equity investment firms and portfolio company business operations, Giacomo helps on different areas of the capital raising process, from positioning and crafting the core messaging to anticipate investor objections all the way to managing the reporting and analyzing the performance of underlying assets and investments. His work consistently resulted in higher valuations and smoother transactions for shareholders.",
                 },
               },
               {
@@ -129,7 +129,7 @@ export default function Home() {
                 name: "What is Giacomo Sepe's background?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe holds an MBA from Columbia University and has worked as a Sales Specialist at Merrill Lynch (EMEA) and Arkadia, Project Manager at Hines (Milano Porta Nuova) and UBS Italia, Operating Partner at EQValue Private Equity, Operations Manager at UBS Italia, Simmetrico, and CEO at Cotolicious.",
+                  text: "Giacomo Sepe holds an MBA from Columbia University and has had multiple different interests in his career. He worked as a Asset Management Specialist at Merrill Lynch (EMEA) focused on PE funds of funds. He worked as investment manager at 2 Private Equity firms (Hines and Eqvalue), and has also had corporate development roles at companies in financial services like UBS Italia, Simmetrico, and Arkadia. He has sit as CEO at Cotolicious as a venture manager of IPE Holding family office.",
                 },
               },
               {
@@ -137,15 +137,15 @@ export default function Home() {
                 name: "What services does Giacomo Sepe offer for company exits?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe offers three core services for company exits: 1) Implementing software and operational systems to reduce key person dependency, 2) Refining business positioning and sales documents to strengthen market competitiveness, and 3) Crafting investor messaging to address potential objections during capital raises or share sales.",
+                  text: "Giacomo Sepe offers three core services: 1) Capital raising strategy and messaging for Private Equity funds, 2) Capital deployment for both medium - large companies and private equity funds, and 3) Supporting software and sustainability transformations at medium size companies for shareholders.",
                 },
               },
               {
                 "@type": "Question",
-                name: "How does Giacomo Sepe support international expansion?",
+                name: "How does Giacomo Sepe support Corporate development?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe supports international expansion by assisting companies in strategic client acquisition, account management, and operational efficiency, ensuring they are well-prepared for global markets and partnerships.",
+                  text: "Giacomo Sepe supports scaling businesses by assisting companies in strategic client acquisition, partnership strategy, account management, and operational efficiency, ensuring they are well-prepared for global markets and partnerships.",
                 },
               },
             ],
@@ -159,7 +159,7 @@ export default function Home() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "ProfessionalService",
-            name: "Giacomo Sepe Operations Consulting",
+            name: "Giacomo Sepe funds shareholders value consulting",
             description:
               "Operations consulting services for shareholders and entrepreneurs looking to increase company value ahead of capital raises, acquisitions, exits, and international expansion",
             provider: {
@@ -168,11 +168,11 @@ export default function Home() {
             },
             areaServed: "Global",
             serviceType: [
-              "Operations Consulting",
+              "Investment Management",
               "Capital Raising Advisory",
               "Exit Strategy",
               "M&A Preparation",
-              "International Expansion",
+              "Business scaling",
               "Partnership Strategy",
             ],
             offers: {
@@ -284,7 +284,7 @@ export default function Home() {
             </h2>
             <div className="space-y-3 text-base md:text-sm text-foreground leading-relaxed">
               <p>
-                <strong>{t("cotolicious")}</strong> {t("cotoliciousDesc")}
+                <strong>{t("ipeHolding")}</strong> {t("ipeHoldingDesc")}
               </p>
               <p>
                 <strong>{t("picciotto")}</strong> {t("picciottoDesc")}

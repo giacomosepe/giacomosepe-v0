@@ -5,49 +5,50 @@ export const translations = {
     substack: "Substack",
 
     // Home Page
-    title:
-      "Corporate development and operations for privately owned businesses",
+    title: "Institutional capital raising & corporate development",
 
     intro:
-      "Shareholders I work with want to see their companies scale but face some usual challenges: lack of procedures, management drowning in too many technology options, lack of data leading to financial uncertainty, pressure on service delivery threatening service quality, operations not scaling as fast as revenue, cost growing with revenue, and often messaging addressing as many different clients as possibile that creates undifferentiated offering and positioning confusion.",
+      "I partner with fund managers and company leaders on the work that creates shareholder value—raising institutional capital, improving portfolio performance, and driving corporate development.",
 
     approach:
-      "In order to generate value for shareholders, managers need to build modern, scalable, and predictable operations and sharp, clear, differentiated messaging. Solutions need to be viable, valuable and feasible. And always more. Need to incorporate sustainability and technology.",
+      "I partner with fund managers on institutional capital raising and I support portfolio companies on the execution that drives value. I am building a joint venture with Arkadia financial services to serve clients on technolgy and sustainability investments, and I advise Fain Ascensores on Italian corporate development strategy. In order to generate value for shareholders, managers need to build modern, scalable, and predictable operations with clear and differentiated messaging. As I understand both the financial investor and the business operator needs I work at the crossroad of capital and operations.",
 
     dayToDay:
-      "As an operator working for shareholders, I support the execution of all aspects leading to building modern and sustainable companies, from investments in technology to building entirely new businesses.",
+      "I've spent the past 15 years working across private equity, family offices, and operating roles. I started in Alternative Asset Management at Merrill Lynch and UBS, moved into Private eqitui Investment management at Hines working on deals worth €1bn+. I then started working with founder led businesses as I helped set up private equity technology investment firm EQValue as an investment relations and project manager sourcing and supervising investments in the €1-10M range. More recently I have been investment manager at family offices De Picciotto and IPE Holdings across hospitality, entertainment, and consumer businesses. MBA from Columbia University.",
 
     result:
-      "I own execution from start to finish, as a product manager or as an operations executive. My goal is to give shareholders scalable and sustainable businesses, which always translate into significantly higher valuations for their companies.",
+      "I have seen all sides of the private capital investment chain, starting from LP investment (Merril Lynch, UBS), GP investment (Hines, EQValue), Portfolio operations management (EQValue, IPE Holding) and interim CFO / COO at founder-led companies (Simmetrico, Chamilia, Cotolicious, and several more).",
 
     openTo: "Let's talk",
 
     // background section
     background:
-      "15 years as operations and product manager or CEO entrepreneurial companies (Simmetrico, Flamme, Arkadia), portfolio manager at 2 private equity investment firms (EQValue e Hines), 5 years in finance (Merrill Lynch e UBS). MBA Columbia University",
+      "15 years in private equity investment firms (EQValue e Hines), portfolio companies, and founder-led businesses as a manager and an operator. MBA Columbia University",
 
     // Completed Work
     completedWork: "Select experience",
-    cotolicious: "IPE holding family office — ",
-    cotoliciousDesc:
-      "COO, Cotolicious (IPE Holdings portfolio company) - Built financial dashboards, streamlined operations, launched e-commerce. Successfully prepared and executed company sale.",
-    picciotto: "De Picciotto family office — ",
+    picciotto: "De Picciotto Family Office — ",
     picciottoDesc:
-      "Managed investment portfolio across 5 companies (hospitality, entertainment). Supported partnerships and divestments.",
-    simmetrico: "Simmetrico - ",
-    simmetricoDesc:
-      "Redesigned org structure, built cash flow dashboard, launched new service line. Improved bank negotiations, sold product rights to Chinese distributor.",
-    otherWork: "Chamilia - ",
-    otherWorkDesc:
-      "(acquired by Swarovski) — Head of Commerce: Commercial leadership during growth phase and acquisition.",
-    eqvalue: "EQValue Private equity investment club - ",
+      "Managed multi-company investment portfolio (hospitality, entertainment). Supported capital partnerships and divestments.",
+
+    ipe: "IPE Holdings Family Office — ",
+    ipeHolding:
+      "Portfolio oversight and COO of Cotolicious: Built financial dashboards, streamlined operations, prepared and executed successful exit.",
+
+    eqvalue: "EQValue Private Equity — ",
     eqvalueDesc:
-      "Originated and closed 4 investments (€1-10M). Improved portfolio company performance metrics 5-10% pre-exit.",
-    fineurop: "Fineurop Soditic - ",
+      "Investment professional: Originated and closed 4 investments (€1-10M). Portfolio management and performance monitoring across holdings.",
+
+    hines: "Hines — ",
+    hinesDesc:
+      "Portfolio management in institutional real estate investment platform.",
+
+    fineurop: "Fineurop Soditic — ",
     fineuropDesc:
-      "Originated and executed deals worth €30M and €80M for private equity clients.",
-    flamme: "Flamme",
-    flammeDesc: "— Sales & Sales Ops.",
+      "M&A advisory: Originated and executed transactions worth €30M and €80M for institutional clients.",
+
+    merrill: "Merrill Lynch & UBS — ",
+    merrillDesc: "Capital markets and investment banking experience.",
 
     // Contact Page
     contactTitle: "How can I help?",
@@ -72,48 +73,50 @@ export const translations = {
     substack: "Substack",
 
     // Home Page
-    title: "Corporate development e Operations per aziende familiari",
+    title: "Raccolta capitale istituzionale e sviluppo aziendale",
 
     intro:
-      "Gli azionisti che vogliono vedere crescere le proprie aziende, affrontano sfide ricorrenti: assenza di procedure strutturate, management sommerso da troppe opzioni tecnologiche, carenza di dati che genera incertezza finanziaria, pressione sulla consegna dei servizi che minaccia la qualità degli stessi, operations che non scalano alla stessa velocità dei ricavi, costi che crescono proporzionalmente al fatturato e, spesso, messaging rivolto a troppi clienti diversi che porta a un'offerta indifferenziata e confusione nel posizionamento del brand.",
+      "Collaboro con GP di fondi di private equity sulla raccolta di capitale istituzionale e supporto le società in portfolio nell'esecuzione per generare valore durante il periodo di investimento. Sto costruendo una joint venture con Arkadia financial services per servire clienti su investimenti in tecnologia e sostenibilità. Sono advisor di Fain Ascensores per la strategia di sviluppo attraverso acquisizioni e partnership in Italia. Per creare valore per gli azionisti e i manager devono costruire Operations moderne, scalabili e prevedibili e dare grande enfasi a un sistema di comunicazione chiara e differenziata. Con le mie esperienze diversificate ho imparato a comprendere sia le esigenze degli investitori finanziari che degli operatori aziendali, e pertanto oggi sono appassionato del mio lavoro all'intersezione tra capitale e operazioni.",
 
     approach:
-      "Per generare valore, è necessario costruire operations moderne, scalabili e prevedibili, insieme a messaggi chiari, distintivi che creano differenziazione. Le soluzioni offerte devono essere realizzabili, pratiche e legate a un risultato concreto per gli utenti. E sempre di più. Devono integrare sostenibilità e tecnologia.",
+      "Ho trascorso 15 anni tra private equity (EQValue, Hines), family office (De Picciotto, IPE Holdings) e ruoli operativi. Ho iniziato nei mercati finanziari presso Merrill Lynch e UBS, poi in M&A advisory presso Fineurop Soditic, quindi in investimenti PE dove ho originato e chiuso operazioni da €1-10M. Ho anche gestito società in portfolio, costruito sistemi di reporting finanziario e preparato aziende per exit di successo. MBA della Columbia University.",
 
     dayToDay:
-      "Come professionista al servizio degli azionisti, supporto l'esecuzione di tutto cio' che serve per costruire aziende moderne e sostenibili, dagli investimenti in tecnologia alla creazione di intere nuove linee di business o prodotti.",
+      "I gestori di fondi spesso faticano ad articolare la loro storia per gli investitori istituzionali. Le società in portfolio mancano della chiarezza finanziaria che mantiene gli LP fiduciosi. Le aziende pensano di essere pronte per una transazione finché non lo sono. Lavoro per colmare queste lacune: aiutando i fondi a raccogliere capitale istituzionale, costruendo reporting che risponde alle domande e preparando le aziende a chiudere quando conta.",
 
     result:
-      "Gestisco la la creazione dei prodotti e lo sviluppo del business dall'inizio alla fine, o come product manager o come responsabile delle operations. Il mio obiettivo è consegnare agli azionisti aziende scalabili e sostenibili, che si traduce sempre in valutazioni significativamente più alte per le loro società.",
+      "Attualmente consiglio sulla raccolta di capitale per un fondo infrastrutturale e sviluppo aziendale per società in crescita. Basato a Milano, lavoro globalmente.",
 
-    openTo: "Per una chiacchierata >>",
+    openTo: "Parliamone",
 
     // background section
     background:
-      "15 anni come Direttore operativo e amministratore delegato in aziende familiari (Simmetrico, Flamme, Arkadia), portfolio manager per 2 investitori di private equity (EQValue e Hines), e 5 anni di esperienza finanziaria (Merrill Lynch e UBS). MBA Columbia University.",
+      "15 anni tra fondi di private equity (EQValue, Hines), family office e ruoli operativi. MBA Columbia University",
 
     // Completed Work
-    completedWork: "Casi di successo",
-    cotolicious: "IPE holding family office — ",
-    cotoliciousDesc:
-      "Creazione dashboard finanziari, ottimizzazione operazioni, lancio e-commerce. Preparazione e vendita azienda completata con successo.",
-    picciotto: "De Picciotto family office —",
+    completedWork: "Esperienze pricipali",
+    picciotto: "De Picciotto Family Office — ",
     picciottoDesc:
-      "Gestione portfolio investimenti su 5 aziende (hospitality, entertainment). Supporto partnership e disinvestimenti.",
-    simmetrico: "Simmetrico - ",
-    simmetricoDesc:
-      "Ridisegno struttura organizzativa, creazione dashboard cash flow, lancio nuova linea servizi. Miglioramento negoziazioni bancarie, vendita diritti prodotto a distributore cinese.",
-    otherWork: "Chamilia",
-    otherWorkDesc:
-      "(acquisita da Swarovski) — Head of Commerce. Leadership commerciale durante fase crescita e acquisizione.",
-    eqvalue: "EQValue Private equity investment club - ",
+      "Gestito portfolio multi-aziendale (hospitality, entertainment). Supporto partnership e disinvestimenti.",
+
+    ipeHolding: "IPE Holdings Family Office — ",
+    ipeHoldingDesc:
+      "Supervisione portfolio e COO di Cotolicious: Costruito dashboard finanziari, operazioni ottimizzate, preparato ed eseguito exit di successo.",
+
+    eqvalue: "EQValue Private Equity — ",
     eqvalueDesc:
-      "Origination e chiusura 4 investimenti (€1-10M). Miglioramento performance aziende portfolio 5-10% pre-exit.",
-    fineurop: "Fineurop Soditic - ",
+      "Investment professional: Originato e chiuso 4 investimenti (€1-10M). Gestione portfolio e monitoraggio performance.",
+
+    hines: "Hines — ",
+    hinesDesc:
+      "Gestione portfolio in piattaforma di investimento immobiliare istituzionale.",
+
+    fineurop: "Fineurop Soditic — ",
     fineuropDesc:
-      "Acquisizione clienti e esecuzione deal per €30M e €80M per clienti private equity.",
-    flamme: "Flamme",
-    flammeDesc: "— Sales & Sales Ops.",
+      "M&A advisory: Originato ed eseguito transazioni per €30M e €80M per clienti istituzionali.",
+
+    merrill: "Merrill Lynch & UBS — ",
+    merrillDesc: "Esperienza in mercati finanziari e investment banking.",
 
     // Contact Page
     contactTitle: "(Come) posso essere utile?",
