@@ -8,16 +8,16 @@ export const translations = {
     title: "Institutional capital raising & corporate development",
 
     intro:
-      "I partner with fund managers and company leaders on the work that creates shareholder value—raising institutional capital, improving portfolio performance, and driving corporate development.",
+      "I partner with private equity managers and company leaders to create shareholder value through capital raising, portfolio performance improvement, and go-to-market technology investments.",
 
     approach:
-      "I partner with fund managers on institutional capital raising and I support portfolio companies on the execution that drives value. I am building a joint venture with Arkadia financial services to serve clients on technolgy and sustainability investments, and I advise Fain Ascensores on Italian corporate development strategy. In order to generate value for shareholders, managers need to build modern, scalable, and predictable operations with clear and differentiated messaging. As I understand both the financial investor and the business operator needs I work at the crossroad of capital and operations.",
+      "I have always enjoyed working at the crossroads of capital, communications, and technology, and so I now I help tech driven private equity fund managers on institutional capital raising and I support portfolio companies on value generation. I love building new products and developing new markets for existing ones: I advise Fain Ascensores on Italian corporate development strategy, and Arkadia financial services on partnerships and product innovation. With experiences on both sides of the business, I understand as much the needs of financial investor as the expectations of shareholders.",
 
     dayToDay:
-      "I've spent the past 15 years working across private equity, family offices, and operating roles. I started in Alternative Asset Management at Merrill Lynch and UBS, moved into Private eqitui Investment management at Hines working on deals worth €1bn+. I then started working with founder led businesses as I helped set up private equity technology investment firm EQValue as an investment relations and project manager sourcing and supervising investments in the €1-10M range. More recently I have been investment manager at family offices De Picciotto and IPE Holdings across hospitality, entertainment, and consumer businesses. MBA from Columbia University.",
+      "I've spent the past 15 years working across private equity, family offices, and operating roles. I started in Alternative Asset Management at Merrill Lynch and UBS, moved into Private Equity Investment management at Hines working on deals worth €1bn+. I then started working with founder led businesses as I helped set up private equity technology investment firm EQValue as an investment relations and project manager sourcing and supervising investments in the €1-10M range. More recently I have been investment manager at family offices De Picciotto and IPE Holdings across hospitality, entertainment, and consumer businesses. MBA from Columbia University.",
 
     result:
-      "I have seen all sides of the private capital investment chain, starting from LP investment (Merril Lynch, UBS), GP investment (Hines, EQValue), Portfolio operations management (EQValue, IPE Holding) and interim CFO / COO at founder-led companies (Simmetrico, Chamilia, Cotolicious, and several more).",
+      "I have seen all sides of the private capital investment chain, starting from LP investment (Merrill Lynch, UBS), GP investment (Hines, EQValue), Portfolio operations management (EQValue, IPE Holding) and interim CFO / COO at founder-led companies (Simmetrico, Chamilia, Cotolicious, and several more).",
 
     openTo: "Let's talk",
 
@@ -31,9 +31,13 @@ export const translations = {
     picciottoDesc:
       "Managed multi-company investment portfolio (hospitality, entertainment). Supported capital partnerships and divestments.",
 
-    ipe: "IPE Holdings Family Office — ",
-    ipeHolding:
+    ipeHolding: "IPE Holdings Family Office — ",
+    ipeHoldingDesc:
       "Portfolio oversight and COO of Cotolicious: Built financial dashboards, streamlined operations, prepared and executed successful exit.",
+
+    simmetrico: "Fractional CFO and COO",
+    simmetricoDesc:
+      "Built dashboard, financial forecast and reporting. Design organization and workflows. Supported development of a new business through planning, vision and commercial execution",
 
     eqvalue: "EQValue Private Equity — ",
     eqvalueDesc:
@@ -53,7 +57,7 @@ export const translations = {
     // Contact Page
     contactTitle: "How can I help?",
     contactSubtitle:
-      "The best way to understand if we can work together is a short conversaion. Send me a message and I will be in touch.",
+      "The best way to see if we're a fit is a quick conversation. Send me a message and I'll respond shortly.",
     nameLabel: "Name",
     namePlaceholder: "Your name",
     emailLabel: "Email",
@@ -65,7 +69,7 @@ export const translations = {
     successMessage:
       "Your message successfully landed in my inbox. I will be in touch within a few hours.",
     errorMessage:
-      "Something went wrong. Please try again or find me on Linekedin.",
+      "Something went wrong. Please try again or find me on LinkedIn.",
   },
   it: {
     // Navbar
@@ -73,28 +77,28 @@ export const translations = {
     substack: "Substack",
 
     // Home Page
-    title: "Raccolta capitale istituzionale e sviluppo aziendale",
+    title: "Raccolta capitale istituzionale e corporate development",
 
     intro:
-      "Collaboro con GP di fondi di private equity sulla raccolta di capitale istituzionale e supporto le società in portfolio nell'esecuzione per generare valore durante il periodo di investimento. Sto costruendo una joint venture con Arkadia financial services per servire clienti su investimenti in tecnologia e sostenibilità. Sono advisor di Fain Ascensores per la strategia di sviluppo attraverso acquisizioni e partnership in Italia. Per creare valore per gli azionisti e i manager devono costruire Operations moderne, scalabili e prevedibili e dare grande enfasi a un sistema di comunicazione chiara e differenziata. Con le mie esperienze diversificate ho imparato a comprendere sia le esigenze degli investitori finanziari che degli operatori aziendali, e pertanto oggi sono appassionato del mio lavoro all'intersezione tra capitale e operazioni.",
+      "Collaboro con gestori di fondi di private equity e imprenditori sulla generazione di valore per gli azionisti — in particolare capital raising, miglioramento delle performance del portafoglio e sviluppo aziendale attraverso tecnologia e investimenti.",
 
     approach:
-      "Ho trascorso 15 anni tra private equity (EQValue, Hines), family office (De Picciotto, IPE Holdings) e ruoli operativi. Ho iniziato nei mercati finanziari presso Merrill Lynch e UBS, poi in M&A advisory presso Fineurop Soditic, quindi in investimenti PE dove ho originato e chiuso operazioni da €1-10M. Ho anche gestito società in portfolio, costruito sistemi di reporting finanziario e preparato aziende per exit di successo. MBA della Columbia University.",
+      "Ho sempre amato lavorare all'intersezione tra capitale, comunicazione e tecnologia, e per questo oggi supporto manager di aziende tech-driven nella raccolta di capitale istituzionale e le società in portfolio nella generazione di valore. Mi appassiona gestire la creazione e lo sviluppo commerciale di nuovi prodotti e la gestione dell'ingresso in nuovi mercati per quelli esistenti: sono advisor di Fain Ascensores per lo corporate development in Italia e di Arkadia financial services per le partnership e l'innovazione di prodotto. Con esperienze maturate sia da prestatore di capitale che in azienda, comprendo tanto le esigenze degli investitori finanziari quanto le aspettative degli azionisti privati.",
 
     dayToDay:
-      "I gestori di fondi spesso faticano ad articolare la loro storia per gli investitori istituzionali. Le società in portfolio mancano della chiarezza finanziaria che mantiene gli LP fiduciosi. Le aziende pensano di essere pronte per una transazione finché non lo sono. Lavoro per colmare queste lacune: aiutando i fondi a raccogliere capitale istituzionale, costruendo reporting che risponde alle domande e preparando le aziende a chiudere quando conta.",
+      "Ho trascorso gli ultimi 15 anni tra private equity, family office e ruoli operativi. Ho iniziato nell'Alternative Asset Management presso Merrill Lynch e UBS, sono passato al Private Equity Investment management presso Hines lavorando su operazioni da oltre €1 miliardo. Successivamente ho iniziato a collaborare con aziende guidate dai founder aiutando a costituire la società di investimento in tecnologia EQValue come responsabile investor relations e project manager, originando e supervisionando investimenti nella fascia €1-10M. Più recentemente sono stato investment manager presso i family office De Picciotto e IPE Holdings nei settori hospitality, entertainment e consumer. MBA della Columbia University.",
 
     result:
-      "Attualmente consiglio sulla raccolta di capitale per un fondo infrastrutturale e sviluppo aziendale per società in crescita. Basato a Milano, lavoro globalmente.",
+      "Ho visto tutti i lati della catena degli investimenti di capitale privato, partendo dagli investimenti LP (Merrill Lynch, UBS), investimenti GP (Hines, EQValue), gestione operativa di portfolio (EQValue, IPE Holding) e incarichi di interim CFO/COO in aziende guidate dai founder (Simmetrico, Chamilia, Cotolicious e molte altre).",
 
-    openTo: "Parliamone",
+    openTo: "Parliamo!",
 
     // background section
     background:
       "15 anni tra fondi di private equity (EQValue, Hines), family office e ruoli operativi. MBA Columbia University",
 
     // Completed Work
-    completedWork: "Esperienze pricipali",
+    completedWork: "Esperienze principali",
     picciotto: "De Picciotto Family Office — ",
     picciottoDesc:
       "Gestito portfolio multi-aziendale (hospitality, entertainment). Supporto partnership e disinvestimenti.",
@@ -102,6 +106,10 @@ export const translations = {
     ipeHolding: "IPE Holdings Family Office — ",
     ipeHoldingDesc:
       "Supervisione portfolio e COO di Cotolicious: Costruito dashboard finanziari, operazioni ottimizzate, preparato ed eseguito exit di successo.",
+
+    simmetrico: "Fractional CFO e COO",
+    simmetricoDesc:
+      "Creato dashboard con le proiezioni finanziarie, consolidamento dei vari progetti, e integrato strumenti di project management. Disegnato organigramma,e gestito il lancio di nuovi prodotti dal punto di vista di visione, modello di distribuzione e pianificazione fabbisogno finanziario",
 
     eqvalue: "EQValue Private Equity — ",
     eqvalueDesc:

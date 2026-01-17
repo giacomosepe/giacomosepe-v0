@@ -21,9 +21,9 @@ export default function Home() {
             "@context": "https://schema.org",
             "@type": "Person",
             name: "Giacomo Sepe",
-            jobTitle: "Investment Manager",
+            jobTitle: "Investment Professional & Corporate Development Advisor",
             description:
-              "Managing portfolio companies investors communications for shareholders. Increasing value through software systems, positioning, and messaging. Leading corporate development initiatives like capital raising, partnerships, and tech investments",
+              "Partnering with private equity fund managers on institutional capital raising and portfolio companies on value generation. Advising on corporate development, partnerships, and technology investments.",
             url: "https://giacomosepe.com",
             sameAs: [
               "https://linkedin.com/in/giacomosepe",
@@ -35,66 +35,65 @@ export default function Home() {
               name: "Columbia Business School",
             },
             knowsAbout: [
-              "Investment Management",
-              "Capital Raising",
-              "Business Strategy",
-              "M&A",
-              "Investor Relations",
-              "Business Valuation",
-              "Exit Strategy",
-              "Software Implementation",
-              "Business Positioning",
-              "Investor Readiness",
-              "Operations management",
+              "Private Equity",
+              "Institutional Capital Raising",
+              "Corporate Development",
+              "Portfolio Management",
+              "Technology Investments",
+              "Partnership Strategy",
+              "Business Development",
+              "Fund Management",
+              "LP Relations",
+              "GP Investment",
             ],
             hasOccupation: {
               "@type": "Occupation",
-              name: "Operations Specialist",
+              name: "Investment Professional & Corporate Development Advisor",
               description:
-                "Specializes in supporting private equity investors and entrepreneurs on capital raises, capital deployment, and operations optimization by implementing systems, refining positioning, and crafting investor messaging.",
+                "Partners with private equity fund managers on institutional capital raising and supports portfolio companies on value generation through corporate development, partnerships, and technology investments.",
               skills: [
-                "Investment Management",
-                "Capital Raising Strategy",
-                "Business Positioning",
-                "Investor Messaging",
-                "Software Systems Implementation",
-                "M&A Preparation",
-                "Exit Strategy",
-                "Business Valuation Enhancement",
-                "International Business Development",
-                "Partnership Strategy",
+                "Institutional Capital Raising",
+                "Private Equity Fund Management",
+                "Portfolio Company Support",
+                "Corporate Development Strategy",
+                "Technology Investment Advisory",
+                "Partnership Development",
+                "LP/GP Relations",
+                "Business Development",
+                "Market Entry Strategy",
+                "Value Creation",
               ],
             },
             workExample: [
               {
                 "@type": "CreativeWork",
-                name: "Cotolicious Exit",
+                name: "IPE Holdings Portfolio Management",
                 description:
-                  "COO & CEO role leading to successful cash exit after 2 years through operational streamlining and strategic repositioning",
+                  "Investment manager overseeing hospitality, entertainment, and consumer businesses. COO at Cotolicious: built financial dashboards, streamlined operations, executed successful exit.",
               },
               {
                 "@type": "CreativeWork",
-                name: "Simmetrico Transformation",
+                name: "De Picciotto Family Office",
                 description:
-                  "Organizational redesign and product launch resulting in improved bank negotiations and product rights sale",
+                  "Managed multi-company investment portfolio across hospitality and entertainment. Supported capital partnerships and divestments.",
               },
               {
                 "@type": "CreativeWork",
-                name: "Camilia Acquisition",
+                name: "EQValue Private Equity",
                 description:
-                  "Head of Commerce role leading to successful acquisition by Swarovski through strategic client acquisition and account management",
+                  "Investment professional: originated and closed 4 investments (€1-10M). Portfolio management and performance monitoring.",
               },
               {
                 "@type": "CreativeWork",
-                name: "Fineurop Soditic Client Management",
+                name: "Hines Real Estate Investment",
                 description:
-                  "Client acquisition & account management role contributing to business growth and international expansion",
+                  "Portfolio management in institutional real estate platform working on €1bn+ deals.",
               },
               {
                 "@type": "CreativeWork",
-                name: "Flamme Sales & Sales Ops",
+                name: "Fineurop Soditic M&A",
                 description:
-                  "Sales & Sales Ops role enhancing revenue streams and operational efficiency",
+                  "M&A advisory: originated and executed transactions worth €30M and €80M for institutional clients.",
               },
             ],
           }),
@@ -113,7 +112,7 @@ export default function Home() {
                 name: "What does Giacomo Sepe specialize in?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe is an investment Manager partnering with fund managers and company leaders on the work that creates shareholder value— with special focus on raising institutional capital, improving portfolio performance, and driving corporate development.",
+                  text: "Giacomo Sepe partners with private equity fund managers on institutional capital raising and supports portfolio companies on value generation. He works at the intersection of capital, communications, and technology, helping tech-driven managers raise institutional capital and advising companies on corporate development, partnerships, and product innovation.",
                 },
               },
               {
@@ -121,7 +120,7 @@ export default function Home() {
                 name: "How does Giacomo Sepe help with capital raising?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "With years working on both private equity investment firms and portfolio company business operations, Giacomo helps on different areas of the capital raising process, from positioning and crafting the core messaging to anticipate investor objections all the way to managing the reporting and analyzing the performance of underlying assets and investments. His work consistently resulted in higher valuations and smoother transactions for shareholders.",
+                  text: "With 15 years across private equity firms (EQValue, Hines), family offices (De Picciotto, IPE Holdings), and operating roles, Giacomo helps fund managers articulate their investment thesis to institutional investors. He has experience on both sides—as LP investor (Merrill Lynch, UBS) and GP investor (Hines, EQValue)—giving him deep understanding of what institutional investors need to hear.",
                 },
               },
               {
@@ -129,23 +128,23 @@ export default function Home() {
                 name: "What is Giacomo Sepe's background?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe holds an MBA from Columbia University and has had multiple different interests in his career. He worked as a Asset Management Specialist at Merrill Lynch (EMEA) focused on PE funds of funds. He worked as investment manager at 2 Private Equity firms (Hines and Eqvalue), and has also had corporate development roles at companies in financial services like UBS Italia, Simmetrico, and Arkadia. He has sit as CEO at Cotolicious as a venture manager of IPE Holding family office.",
+                  text: "Giacomo Sepe holds an MBA from Columbia University. He started in Alternative Asset Management at Merrill Lynch and UBS, moved into Private Equity Investment management at Hines (€1bn+ deals), helped establish PE technology firm EQValue as investment relations and project manager (€1-10M range), and most recently served as investment manager at family offices De Picciotto and IPE Holdings.",
                 },
               },
               {
                 "@type": "Question",
-                name: "What services does Giacomo Sepe offer for company exits?",
+                name: "What companies does Giacomo Sepe advise?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe offers three core services: 1) Capital raising strategy and messaging for Private Equity funds, 2) Capital deployment for both medium - large companies and private equity funds, and 3) Supporting software and sustainability transformations at medium size companies for shareholders.",
+                  text: "Giacomo Sepe advises Fain Ascensores on Italian corporate development strategy and Arkadia financial services on partnerships and product innovation. He helps companies develop new products and enter new markets, bringing expertise from both investor and operator perspectives.",
                 },
               },
               {
                 "@type": "Question",
-                name: "How does Giacomo Sepe support Corporate development?",
+                name: "How does Giacomo Sepe support portfolio companies?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Giacomo Sepe supports scaling businesses by assisting companies in strategic client acquisition, partnership strategy, account management, and operational efficiency, ensuring they are well-prepared for global markets and partnerships.",
+                  text: "Giacomo Sepe supports portfolio companies on value generation through corporate development initiatives, partnership strategy, and technology investments. His experience includes portfolio operations management at EQValue and IPE Holding, plus interim CFO/COO roles at founder-led companies.",
                 },
               },
             ],
@@ -159,26 +158,28 @@ export default function Home() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "ProfessionalService",
-            name: "Giacomo Sepe funds shareholders value consulting",
+            name: "Giacomo Sepe - Institutional Capital Raising & Corporate Development",
             description:
-              "Operations consulting services for shareholders and entrepreneurs looking to increase company value ahead of capital raises, acquisitions, exits, and international expansion",
+              "Advisory services for private equity fund managers on institutional capital raising and portfolio companies on value generation through corporate development, partnerships, and technology investments.",
             provider: {
               "@type": "Person",
               name: "Giacomo Sepe",
             },
             areaServed: "Global",
             serviceType: [
-              "Investment Management",
-              "Capital Raising Advisory",
-              "Exit Strategy",
-              "M&A Preparation",
-              "Business scaling",
-              "Partnership Strategy",
+              "Institutional Capital Raising",
+              "Private Equity Fund Advisory",
+              "Corporate Development Strategy",
+              "Portfolio Company Support",
+              "Partnership Development",
+              "Technology Investment Advisory",
+              "LP Relations",
+              "Market Entry Strategy",
             ],
             offers: {
               "@type": "Offer",
               description:
-                "Comprehensive operations consulting to prepare companies for capital raises, acquisitions, exits, international expansion, and partnerships through software implementation, positioning refinement, and investor messaging",
+                "Comprehensive advisory services for private equity managers raising institutional capital and portfolio companies seeking value generation through corporate development, strategic partnerships, and technology investments.",
             },
           }),
         }}
@@ -292,9 +293,9 @@ export default function Home() {
               <p>
                 <strong>{t("simmetrico")}</strong> {t("simmetricoDesc")}
               </p>
-              <p>
+              {/*<p>
                 <strong>{t("otherWork")}</strong> {t("otherWorkDesc")}
-              </p>
+              </p>*/}
               <p>
                 <strong>{t("eqvalue")}</strong> {t("eqvalueDesc")}
               </p>
