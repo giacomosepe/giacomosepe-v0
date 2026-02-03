@@ -5,7 +5,7 @@ export const translations = {
     substack: "Substack",
 
     // Home Page
-    title: "Institutional capital raising & corporate development",
+    title: "Value generation for B2B companies",
 
     intro:
       "Company Manager who helps B2B technology powered companies generate value with positioning and messaging for capital raising, strategic partnerships, automations, and development of digital products. I transform traditional B2B service and light manufacturing companies into valuable, technology powered businesses that PE funds and strategic buyers want to acquire.",
@@ -80,7 +80,7 @@ export const translations = {
     substack: "Substack",
 
     // Home Page
-    title: "Raccolta capitale istituzionale e corporate development",
+    title: "Generazione di valore per aziende B2B",
 
     intro:
       "Aiuto aziende B2B a crescere di valore attraverso posizionamento e comunicazione strategica per raccogliere capitale o stringere partnership, automatizione dei processi o sviluppo di prodotti digitali. Il mio compito e’ trasformare imprese tradizionali di servizi e manifattura leggera in business technology-driven che i fondi di private equity e gli acquirenti strategici vogliono comprare.",

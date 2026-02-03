@@ -17,9 +17,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Giacomo Sepe | Institutional Capital Raising & Corporate Development",
+  title: "Giacomo Sepe | Value generation for B2B companies",
   description:
-    "Partnering with private equity fund managers on institutional capital raising and portfolio companies on value generation through corporate development, partnerships, and technology investments.",
+    "Partnering with private equity fund managers on institutional capital raising and portfolio companies on value generation through corporate development, positioningand technology investments.",
   keywords: [
     "Giacomo Sepe",
     "Private Equity",
@@ -33,6 +33,7 @@ export const metadata: Metadata = {
     "LP Relations",
     "GP Investment",
     "Family Office",
+    "Positioning",
   ],
   authors: [{ name: "Giacomo Sepe" }],
   creator: "Giacomo Sepe",
@@ -45,16 +46,14 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://giacomosepe.com",
-    title:
-      "Giacomo Sepe | Institutional Capital Raising & Corporate Development",
+    title: "Giacomo Sepe | Value generation for B2B companies",
     description:
       "Partnering with private equity fund managers on institutional capital raising and portfolio companies on value generation. 15 years across PE firms, family offices, and operating roles.",
     siteName: "Giacomo Sepe",
   },
   twitter: {
     card: "summary_large_image",
-    title:
-      "Giacomo Sepe | Institutional Capital Raising & Corporate Development",
+    title: "Giacomo Sepe | Value generation for B2B companies",
     description:
       "Partnering with PE fund managers on capital raising and portfolio companies on value generation.",
   },
