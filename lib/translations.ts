@@ -8,15 +8,18 @@ export const translations = {
     title: "Institutional capital raising & corporate development",
 
     intro:
-      "I partner with private equity managers and company leaders to create shareholder value through capital raising, portfolio performance improvement, and go-to-market technology investments.",
+      "Company Manager who helps B2B technology powered companies generate value with positioning and messaging for capital raising, strategic partnerships, automations, and development of digital products. I transform traditional B2B service and light manufacturing companies into valuable, technology powered businesses that PE funds and strategic buyers want to acquire.",
 
     approach:
-      "I have always enjoyed working at the crossroads of capital, communications, and technology, and so I now I help tech driven private equity fund managers on institutional capital raising and I support portfolio companies on value generation. I love building new products and developing new markets for existing ones: I advise Fain Ascensores on Italian corporate development strategy, and Arkadia financial services on partnerships and product innovation. With experiences on both sides of the business, I understand as much the needs of financial investor as the expectations of shareholders.",
+      "Since my MBA at Columbia in 2003, I've worked with owners of traditional businesses who want modern organizations but don't have the expertise, time, or resources to do it themselves and helped them find partners or sell their companies successfully. I support investors like Private equity funds when they want to raise capital or want to generate value from their portfolio without using internal portfolio managers.",
 
     dayToDay:
-      "I've spent the past 15 years working across private equity, family offices, and operating roles. I started in Alternative Asset Management at Merrill Lynch and UBS, moved into Private Equity Investment management at Hines working on deals worth €1bn+. I then started working with founder led businesses as I helped set up private equity technology investment firm EQValue as an investment relations and project manager sourcing and supervising investments in the €1-10M range. More recently I have been investment manager at family offices De Picciotto and IPE Holdings across hospitality, entertainment, and consumer businesses. MBA from Columbia University.",
+      "I typically work with companies at €2-15M in revenue, with a 2-3 year focus on making them ready for a PE fund or trade buyer investment. I support capital raising and exit negotiations. Based in Italy. Working internationally. Native Italian, fluent French and Spanish.",
 
     result:
+      "I am successful when my work results in higher exit value for shareholders or lower use of internal resources in capital raising processes.",
+
+    track:
       "I have seen all sides of the private capital investment chain, starting from LP investment (Merrill Lynch, UBS), GP investment (Hines, EQValue), Portfolio operations management (EQValue, IPE Holding) and interim CFO / COO at founder-led companies (Simmetrico, Chamilia, Cotolicious, and several more).",
 
     openTo: "Let's talk",
@@ -80,16 +83,19 @@ export const translations = {
     title: "Raccolta capitale istituzionale e corporate development",
 
     intro:
-      "Collaboro con gestori di fondi di private equity e imprenditori sulla generazione di valore per gli azionisti — in particolare capital raising, miglioramento delle performance del portafoglio e sviluppo aziendale attraverso tecnologia e investimenti.",
+      "Aiuto aziende B2B a crescere di valore attraverso posizionamento e comunicazione strategica per raccogliere capitale o stringere partnership, automatizione dei processi o sviluppo di prodotti digitali. Il mio compito e’ trasformare imprese tradizionali di servizi e manifattura leggera in business technology-driven che i fondi di private equity e gli acquirenti strategici vogliono comprare.",
 
     approach:
-      "Ho sempre amato lavorare all'intersezione tra capitale, comunicazione e tecnologia, e per questo oggi supporto manager di aziende tech-driven nella raccolta di capitale istituzionale e le società in portfolio nella generazione di valore. Mi appassiona gestire la creazione e lo sviluppo commerciale di nuovi prodotti e la gestione dell'ingresso in nuovi mercati per quelli esistenti: sono advisor di Fain Ascensores per lo corporate development in Italia e di Arkadia financial services per le partnership e l'innovazione di prodotto. Con esperienze maturate sia da prestatore di capitale che in azienda, comprendo tanto le esigenze degli investitori finanziari quanto le aspettative degli azionisti privati.",
+      "Dall'MBA alla Columbia nel 2003, ho collaborato ininterrottamente con imprenditori di aziende tradizionali che vogliono modernizzarsi ma non hanno le competenze, il tempo o le risorse per farlo da soli. Supporto anche investitori come i fondi di private equity quando devono raccogliere capitale o generare valore dal loro portafoglio senza usare portfolio manager interni.",
 
     dayToDay:
-      "Ho trascorso gli ultimi 15 anni tra private equity, family office e ruoli operativi. Ho iniziato nell'Alternative Asset Management presso Merrill Lynch e UBS, sono passato al Private Equity Investment management presso Hines lavorando su operazioni da oltre €1 miliardo. Successivamente ho iniziato a collaborare con aziende guidate dai founder aiutando a costituire la società di investimento in tecnologia EQValue come responsabile investor relations e project manager, originando e supervisionando investimenti nella fascia €1-10M. Più recentemente sono stato investment manager presso i family office De Picciotto e IPE Holdings nei settori hospitality, entertainment e consumer. MBA della Columbia University.",
+      "Di solito lavoro con aziende che fatturano tra i 2 e i 15 milioni di euro, con un orizzonte massimo di 2-3 anni, per prepararle all'ingresso di un fondo PE o di un acquirente industriale. Supporto la raccolta di capitale e le trattative di exit. Sono basato in Italia ma lavoro a livello internazionale. Madrelingua italiano, parlo correntemente francese e spagnolo.",
 
     result:
-      "Ho visto tutti i lati della catena degli investimenti di capitale privato, partendo dagli investimenti LP (Merrill Lynch, UBS), investimenti GP (Hines, EQValue), gestione operativa di portfolio (EQValue, IPE Holding) e incarichi di interim CFO/COO in aziende guidate dai founder (Simmetrico, Chamilia, Cotolicious e molte altre).",
+      "Il risultato del mio lavoro si misura in termini di valutazione delle azioni per gli azionisti e nella rioduzione delle risorse necessarie a chiudere processi di raccolta di capitale.",
+
+    track:
+      "Ho visto tutte le facce della catena del private capital: dagli investimenti come LP (Merrill Lynch, UBS) a quelli come GP (Hines, EQValue), dalla gestione operativa di portfolio (EQValue, IPE Holding) fino al ruolo di CFO/COO ad interim in aziende guidate dai founder (Simmetrico, Chamilia, Cotolicious e altre).",
 
     openTo: "Parliamo!",
 

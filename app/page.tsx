@@ -27,7 +27,8 @@ export default function Home() {
         <div className="md:col-span-1 space-y-3 md:space-y-6">
           <Avatar className="w-48 h-48 border-2 border-border">
             <AvatarImage
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/GiacomoSepe%20-%20smile%20-%20CircleBG%20red-SznDUczgMuV0GGWFk6K1cmsbCL7WYg.png"
+              src="/images/giacomo-sepe-picture.png"
+              // src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/GiacomoSepe%20-%20smile%20-%20CircleBG%20red-SznDUczgMuV0GGWFk6K1cmsbCL7WYg.png"
               alt="Giacomo Sepe - Operations Specialist"
             />
             <AvatarFallback className="text-4xl bg-secondary text-secondary-foreground">
@@ -79,6 +80,7 @@ export default function Home() {
             <p>{t("approach")}</p>
             <p>{t("dayToDay")}</p>
             <p>{t("result")}</p>
+            <p>{t("track")}</p>
 
             <Link href="/contact">
               <Button className="cursor-pointer mt-8 mb-4" variant="outline">
